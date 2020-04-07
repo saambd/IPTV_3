@@ -77,8 +77,10 @@ https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 http://tv.ebox.live/live/colors.m3u8
 #EXTINF:-1, Sony
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
+#EXTINF:-1, Sony
+http://tv.ebox.live/live/sonyhd.m3u8
 #EXTINF:-1, Sony TV HD
-http://10.16.100.204:8080/tv204/sonyentertainmnt_hd720.m3u8
+http://tv.ebox.live/live/sonyhd.m3u8
 #EXTINF:-1, Sony SAB HD
 http://tv.ebox.live/live/sony-sab.m3u8
 
@@ -180,17 +182,19 @@ https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
 
 
 #EXTINF:-1,Sony Six
-http://103.81.104.222/live/sony-sixx/index.m3u8
+http://tv.ebox.live/live/sonysix.m3u8
 #EXTINF:-1, Sony Ten 1
 http://10.16.100.241/exthls/sonyten1.m3u8
 #EXTINF:-1,Sony TEN 2
-http://103.81.104.222/live/sony-ten-02/index.m3u8
+http://tv.ebox.live/live/sonyten-2.m3u8
 #EXTINF:-1,Sony TEN 3
 http://103.81.104.222/live/sony-ten-03/index.m3u8
 #EXTINF:-1,Ten Cricket
-http://103.81.104.222/live/ten-cricket/index.m3u8
+http://tv.ebox.live/live/ten-sports.m3u8
 #EXTINF:-1,PTV Sports
 http://tv.ebox.live/live/ptvsports.m3u8
+#EXTINF:-1,Willo Cricket
+http://tv.ebox.live/live/willow-cric.m3u8
 #EXTINF:-1,Star Sports 1 Hindi
 http://tv.ebox.live/live/starsports-1-hind.m3u8
 #EXTINF:-1,Star Sports 2 HD
@@ -203,6 +207,8 @@ http://tv.ebox.live/live/starsportsselect-1.m3u8
 http://tv.ebox.live/live/starsportsselect-2.m3u8
 #EXTINF:-1, Sky Sports Cricket HD
 http://tv.ebox.live/live/Sky-Sports-cric.m3u8
+#EXTINF:-1, Sky Sports Mix
+http://tv.ebox.live/live/Sky-Sports-Mix.m3u8
 #EXTINF:-1, Sky Bein Sports HD 1
 http://tv.ebox.live/live/bein-sports-1.m3u8
 #EXTINF:-1, Sky Bein Sports HD 2
