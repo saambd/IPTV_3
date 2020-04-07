@@ -26,31 +26,31 @@ http://tv.ebox.live/live/gan.m3u8
 #EXTINF:-1, Channel 9
 http://tv.ebox.live/live/channel9.m3u8
 #EXTINF:-1,Bangla TV
-http://10.16.100.203:8082/bangla/banglatv_hd.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/banglatv/chunks.m3u8
 #EXTINF:-1, Bijoy TV
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
 #EXTINF:-1, Channel 24
-http://10.16.100.204:8080/tv204/channel24_720.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/channel24/chunks.m3u8
 #EXTINF:-1, Deepto TV
-http://10.16.100.203:8082/bangla/deeptotv.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/deepto/chunks.m3u8
 #EXTINF:-1, Desh TV
-http://10.16.100.203:8082/bangla/desh.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/desh/chunks.m3u8
 #EXTINF:-1, Ekushey TV
-http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+http://ddn.amrbd.com:8081/live/ekushey/playlist.m3u8
 #EXTINF:-1, Independent TV
-http://10.16.100.203:8082/bangla/independent.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/independent/chunks.m3u8
 #EXTINF:-1, Mashranga TV
-http://10.16.100.203:8082/bangla/MAASRANGATV.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/maasranga/chunks.m3u8
 #EXTINF:-1, Mohona TV
 http://10.16.100.203:8082/bangla/mohonatv.m3u8
 #EXTINF:-1, SA TV
 https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
 #EXTINF:-1, My TV
-http://10.16.100.203:8082/bangla/mytv.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/mytv/chunks.m3u8
 #EXTINF:-1, NTV
-http://10.16.100.203:8082/bangla/ntv.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/ntv/chunks.m3u8
 #EXTINF:-1, Nagorik TV
-http://10.16.100.203:8082/bangla/nagorik.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/nagoriktv/chunks.m3u8
 #EXTINF:-1, Somoy tv
 http://10.16.100.203:8082/bangla/somoy.m3u8
 #EXTINF:-1, Duronto
