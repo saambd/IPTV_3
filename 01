@@ -154,8 +154,6 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=
 https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
 #EXTINF:-1, ZOOM
 https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
-#EXTINF:-1, ZEE ETC 
-http://10.16.100.201:8082/hindi/ZeeETC.m3u8
 #EXTINF:-1, VH1
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/340?cb=20150308151545" group-title="IN/Hindi",IN/Music B4U Plus (Movies)
@@ -163,32 +161,20 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
 #EXTINF:-1,Discovery HD
 https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://content.osn.com/logo/channel/cropped/NHD.png" group-title="Infotainment", Nat Geo Wild HD Hindi
-http://www.sansat.net:25461/ja1015y30/faPZDx4qHKeouHf/53918
-#EXTINF:-1,Discovery Science
-http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-#EXTINF:-1,Discovery Science Hindi
-http://51.15.8.16:8081/ind1live/starmovies/playlist.m3u8
 #EXTINF:-1,Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1fGWSqu8Vnu84zn72cJV5-xCFJj0vhegP?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Infotainment", Animal Planet HD Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 #EXTINF:-1,FOX Life
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
-#EXTINF:85,National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1, Nat Geo People
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1, Nat Geo In
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_in/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Learning",National Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1fGWSqu8Vnu84zn72cJV5-xCFJj0vhegP?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Infotainment", Animal Planet HD Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 #EXTINF:-1, TLC HD
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/History.de.png" group-title="Learning",History
-http://1906310225.rsc.cdn77.org/1906310225/index.m3u8
 
 
 
