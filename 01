@@ -75,10 +75,6 @@ https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1, Colors HD
 http://tv.ebox.live/live/colors.m3u8
-#EXTINF:-1, Sony
-https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
-#EXTINF:-1, Sony
-http://tv.ebox.live/live/sonyhd.m3u8
 #EXTINF:-1, Sony TV HD
 http://tv.ebox.live/live/sonyhd.m3u8
 #EXTINF:-1, Sony SAB HD
