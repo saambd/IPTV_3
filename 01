@@ -41,7 +41,7 @@ http://ddn.amrbd.com:8081/live/ekushey/playlist.m3u8
 http://telelivetv.webredirect.org:8081/globeworld2020/independent/chunks.m3u8
 #EXTINF:-1, Mashranga TV
 http://telelivetv.webredirect.org:8081/globeworld2020/maasranga/chunks.m3u8
-#EXTINF:-1, Mohona TV
+#EXTINF:-1, Mohona TV (icc)
 http://10.16.100.203:8082/bangla/mohonatv.m3u8
 #EXTINF:-1, SA TV
 https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
@@ -51,9 +51,9 @@ http://telelivetv.webredirect.org:8081/globeworld2020/mytv/chunks.m3u8
 http://telelivetv.webredirect.org:8081/globeworld2020/ntv/chunks.m3u8
 #EXTINF:-1, Nagorik TV
 http://telelivetv.webredirect.org:8081/globeworld2020/nagoriktv/chunks.m3u8
-#EXTINF:-1, Somoy tv
+#EXTINF:-1, Somoy tv (icc)
 http://10.16.100.203:8082/bangla/somoy.m3u8
-#EXTINF:-1, Duronto
+#EXTINF:-1, Duronto (icc)
 http://10.16.100.207:8082/sports/duronto_HD.m3u8
 #EXTINF:-1, ZEE Bangla
 http://tv.ebox.live/live/zee-bangla.m3u8
@@ -181,7 +181,7 @@ https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
 
 #EXTINF:-1,Sony Six
 http://tv.ebox.live/live/sonysix.m3u8
-#EXTINF:-1, Sony Ten 1
+#EXTINF:-1, Sony Ten 1 (icc)
 http://10.16.100.241/exthls/sonyten1.m3u8
 #EXTINF:-1,Sony TEN 2
 http://tv.ebox.live/live/sonyten-2.m3u8
