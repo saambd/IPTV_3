@@ -124,6 +124,8 @@ http://10.16.100.202:8080/tvs202/StarMoviesSelectHD.m3u8
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 #EXTINF:-1, HBO
 http://tv.ebox.live/live/hbo.m3u8
+#EXTINF:-1, HBO (Backup Ch)
+https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Color Infinity HD
 http://tv.ebox.live/live/color-Infinity.m3u8
 #EXTINF:-1, VH1
@@ -136,6 +138,8 @@ https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 http://tv.ebox.live/live/sony-pix.m3u8
 #EXTINF:-1, Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
+#EXTINF:-1, AXN
+https://anytv.gov.gdn/axn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Nick Bangla
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
