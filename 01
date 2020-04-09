@@ -71,6 +71,10 @@ https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
 http://tv.ebox.live/live/zee-tv.m3u8
 #EXTINF:-1, Star Plus
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
+#EXTINF:-1, Star Plus HD (icc)
+http://10.16.100.202:8080/tvs202/starplus.m3u8
+#EXTINF:-1, &TV HD (icc)
+http://10.16.100.202:8080/tvs202/andtv.m3u8
 #EXTINF:-1, Star Bharat
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1, Colors HD
@@ -85,6 +89,8 @@ http://tv.ebox.live/live/sony-sab.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1, ZEE Cinema 
 http://tv.ebox.live/live/zee-cinema.m3u8
+#EXTINF:-1, ZEE Bollywood
+http://tvserver.roarzone.info:8082/10/index.m3u8
 #EXTINF:-1, Sony MAX
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1, Sony MAX HD
@@ -111,6 +117,8 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1, Movies Now
 https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
+#EXTINF:-1, Star Movies Select HD (icc)
+http://10.16.100.202:8080/tvs202/StarMoviesSelectHD.m3u8
 #EXTINF:-1, Lotus TV Macau
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 #EXTINF:-1, HBO
@@ -134,8 +142,8 @@ https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 #EXTINF:-1, Nick JR.
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
-#EXTINF:-1, Sony YAN Bangla (icc)
-http://10.16.100.207:8082/sports/SONYYAY.m3u8
+#EXTINF:-1, Sony YAN Bangla
+http://tvserver.roarzone.info:8082/86/index.m3u8
 #EXTINF:-1, Disney XD (icc)
 http://10.16.100.202:8080/tvs202/disneyxd.m3u8
 #EXTINF:-1,Discovery Kids
@@ -158,6 +166,8 @@ https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/340?cb=20150308151545" group-title="IN/Hindi",IN/Music B4U Plus (Movies)
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1, Zing
+http://tvserver.roarzone.info:8082/102/index.m3u8
 
 #EXTINF:-1,Discovery HD
 https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
@@ -211,3 +221,5 @@ http://tv.ebox.live/live/Sky-Sports-Mix.m3u8
 http://tv.ebox.live/live/bein-sports-1.m3u8
 #EXTINF:-1, Sky Bein Sports HD 2
 http://tv.ebox.live/live/bein-sports-2.m3u8
+#EXTINF:-1, Fox Sports
+http://tvserver.roarzone.info:8082/143/index.m3u8
