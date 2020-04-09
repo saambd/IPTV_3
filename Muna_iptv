@@ -90,7 +90,7 @@ https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 #EXTINF:-1 group-title="CARTOON", Nick JR.
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 #EXTINF:-1 group-title="CARTOON", Sony YAN Bangla
-http://tvserver.roarzone.info:8082/86/index.m3u8
+https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:-1 group-title="CARTOON", Disney XD (icc)
 http://10.16.100.202:8080/tvs202/disneyxd.m3u8
 #EXTINF:-1 group-title="CARTOON",Discovery Kids
