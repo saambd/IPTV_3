@@ -28,7 +28,9 @@ http://tv.ebox.live/live/channel9.m3u8
 #EXTINF:-1,Bangla TV
 http://telelivetv.webredirect.org:8081/globeworld2020/banglatv/chunks.m3u8
 #EXTINF:-1, Bijoy TV
-http://10.16.100.203:8082/bangla/bijoytv.m3u8
+http://tvserver.roarzone.info:8082/101/index.m3u8
+#EXTINF:-1, Peace TV Bangla
+http://tvserver.roarzone.info:8082/52/index.m3u8
 #EXTINF:-1, Channel 24
 http://telelivetv.webredirect.org:8081/globeworld2020/channel24/chunks.m3u8
 #EXTINF:-1, Deepto TV
@@ -156,6 +158,14 @@ https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvc
 
 #EXTINF:-1, 9XM Music
 https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
+#EXTINF:-1, 9X Jalwa
+http://tvserver.roarzone.info:8082/91/index.m3u8
+#EXTINF:-1, B4U Music
+http://tvserver.roarzone.info:8082/140/index.m3u8
+#EXTINF:-1, Dhoom Music
+http://tvserver.roarzone.info:8082/115/index.m3u8
+#EXTINF:-1, Fatafati Music
+http://tvserver.roarzone.info:8082/103/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="IN/Hindi",IN/Music Kadak Hitz
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="IN/Hindi",IN/Music Zee ETC
