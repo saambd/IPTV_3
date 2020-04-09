@@ -2,7 +2,7 @@
 #EXTINF:-1, Jamuna TV
 http://tv.ebox.live/live/ex-jamuna.m3u8
 #EXTINF:-1, Gazi TV
-http://tv.ebox.live/live/gazi-tv.m3u8
+https://anytv.gov.gdn/gazi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Bangla Vision
 http://tv.ebox.live/live/banae3.m3u8
 #EXTINF:-1, ATN Bangla		
@@ -80,17 +80,16 @@ http://10.16.100.202:8080/tvs202/andtv.m3u8
 #EXTINF:-1, Star Bharat
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1, Colors HD
-http://tv.ebox.live/live/colors.m3u8
+http://tvserver.roarzone.info:8082/13/index.m3u8
 #EXTINF:-1, Sony TV HD
-http://tv.ebox.live/live/sonyhd.m3u8
+http://tvserver.roarzone.info:8082/81/index.m3u8
 #EXTINF:-1, Sony SAB HD
-http://tv.ebox.live/live/sony-sab.m3u8
-
+http://tvserver.roarzone.info:8082/84/index.m3u8
 
 #EXTINF:-1, Star Gold HD
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
-#EXTINF:-1, ZEE Cinema 
-http://tv.ebox.live/live/zee-cinema.m3u8
+#EXTINF:-1, ZEE Cinema HD
+https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1, ZEE Bollywood
 http://tvserver.roarzone.info:8082/10/index.m3u8
 #EXTINF:-1, Sony MAX
@@ -183,8 +182,6 @@ http://tvserver.roarzone.info:8082/102/index.m3u8
 https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1,Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1fGWSqu8Vnu84zn72cJV5-xCFJj0vhegP?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Infotainment", Animal Planet HD Hindi
-https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 #EXTINF:-1,FOX Life
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
 #EXTINF:-1, Nat Geo People
