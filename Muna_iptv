@@ -72,8 +72,6 @@ http://tv.ebox.live/live/hbo.m3u8
 http://tv.ebox.live/live/color-Infinity.m3u8
 #EXTINF:-1 group-title="English Movie", VH1
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English Movie",&Flix HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1 group-title="English Movie", FYI TV 18
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 #EXTINF:-1 group-title="English Movie", Sony Pix HD
