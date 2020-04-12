@@ -151,7 +151,7 @@ https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 #EXTINF:-1, Nick JR.
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 #EXTINF:-1, Sony YAN Bangla
-http://tvserver.roarzone.info:8082/86/index.m3u8
+http://10.16.100.207:8082/sports/SONYYAY.m3u8
 #EXTINF:-1, Disney XD (icc)
 http://10.16.100.202:8080/tvs202/disneyxd.m3u8
 #EXTINF:-1,Discovery Kids
