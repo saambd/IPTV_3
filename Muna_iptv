@@ -87,8 +87,8 @@ https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 #EXTINF:-1 group-title="CARTOON", Nick JR.
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
-#EXTINF:-1 group-title="CARTOON", Sony YAN Bangla
-https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
+#EXTINF:-1 group-title="CARTOON", Sony YAN Bangla (icc)
+http://10.16.100.207:8082/sports/SONYYAY.m3u8
 #EXTINF:-1 group-title="CARTOON",Discovery Kids
 https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="CARTOON",Disney Channel Eng
