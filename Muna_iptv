@@ -2,23 +2,23 @@
 http://tvserver.roarzone.info:8082/52/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment", ZEE Bangla
-http://tv.ebox.live/live/zee-bangla.m3u8
+http://tvserver.roarzone.info:8082/48/index.m3u8
 #EXTINF:-1 group-title="Entertainment",Star Jalsha HD
-http://tv.ebox.live/live/star-jalsha.m3u8
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment", ZEE Bangla Cinema
-http://tv.ebox.live/live/zee-cinema-bangla.m3u8
+http://tvserver.roarzone.info:8082/9/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Star jalsha Movies
-http://tv.ebox.live/live/star-jalsha-movies.m3u8
+http://tvserver.roarzone.info:8082/38/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Sangeet Bangla
 https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment", ZEE TV
-http://tv.ebox.live/live/zee-tv.m3u8
+http://tvserver.roarzone.info:8082/8/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Star Plus
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment", Star Plus HD (icc)
 http://10.16.100.202:8080/tvs202/starplus.m3u8
 #EXTINF:-1 group-title="Entertainment", &TV HD (icc)
-http://10.16.100.202:8080/tvs202/andtv.m3u8
+http://tvserver.roarzone.info:8082/80/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Star Bharat
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment", Colors HD
@@ -67,15 +67,13 @@ http://10.16.100.202:8080/tvs202/StarMoviesSelectHD.m3u8
 #EXTINF:-1 group-title="English Movie", Lotus TV Macau
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 group-title="English Movie", HBO
-http://tv.ebox.live/live/hbo.m3u8
-#EXTINF:-1 group-title="English Movie",Color Infinity HD
-http://tv.ebox.live/live/color-Infinity.m3u8
+https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="English Movie", VH1
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1 group-title="English Movie", FYI TV 18
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
 #EXTINF:-1 group-title="English Movie", Sony Pix HD
-http://tv.ebox.live/live/sony-pix.m3u8
+https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1 group-title="English Movie", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 
@@ -89,8 +87,6 @@ https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 #EXTINF:-1 group-title="CARTOON", Sony YAN Bangla (icc)
 http://10.16.100.207:8082/sports/SONYYAY.m3u8
-#EXTINF:-1 group-title="CARTOON",Discovery Kids
-https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="CARTOON",Disney Channel Eng
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CARTOON",CARTOON NETWORK Hindi
