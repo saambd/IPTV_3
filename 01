@@ -68,7 +68,9 @@ http://tvserver.roarzone.info:8082/9/index.m3u8
 #EXTINF:-1, Star jalsha Movies
 http://tvserver.roarzone.info:8082/38/index.m3u8
 #EXTINF:-1, Sony AATH
-https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
+http://tvserver.roarzone.info:8082/47/index.m3u8
+#EXTINF:-1,Colors Bangla
+https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
 #EXTINF:-1, Sangeet Bangla
 https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1, ZEE TV
@@ -76,11 +78,9 @@ http://tvserver.roarzone.info:8082/8/index.m3u8
 #EXTINF:-1, Star Plus
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 #EXTINF:-1, Star Plus HD 
-http://tvserver.roarzone.info:8082/11/index.m3u8
+https://anytv.gov.gdn/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Color HD
 http://tvserver.roarzone.info:8082/13/index.m3u8
-#EXTINF:-1, &TV HD
-http://tvserver.roarzone.info:8082/80/index.m3u8
 #EXTINF:-1, Star Bharat
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1, Colors HD
@@ -98,10 +98,12 @@ http://tvserver.roarzone.info:8082/12/index.m3u8
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1, ZEE Bollywood
 http://tvserver.roarzone.info:8082/10/index.m3u8
-#EXTINF:-1, Sony MAX
-https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
-#EXTINF:-1, Sony MAX HD
-https://streamer-1.toffeelive.com/live/set_max_hd_320/index.m3u8
+#EXTINF:-1, Sony MAX (icc)
+http://10.16.100.202:8080/tvs202/setmax_720.m3u8
+#EXTINF:-1, Sony MAX HD (icc)
+http://10.16.100.204:8080/tv204/setmax_hd720.m3u8
+#EXTINF:-1, Sony MAX (backup Server) 
+http://tvserver.roarzone.info:8082/82/index.m3u8
 #EXTINF:-1 Sony MAX 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1, Star Gold 2
@@ -137,8 +139,8 @@ https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
 #EXTINF:-1, FYI TV 18
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
-#EXTINF:-1, Sony Pix HD
-https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1, Sony Pix HD (icc)
+http://10.16.100.204:8080/tv204/sony_pix720.m3u8
 #EXTINF:-1, Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 #EXTINF:-1, AXN
@@ -162,8 +164,8 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
 
 
-#EXTINF:-1, 9XM Music
-https://streamer-1.toffeelive.com/live/9xm_720/index.m3u8
+#EXTINF:-1, MTV Beats
+https://bracnet.iptv.jadoodigital.com/live/mtv_beats/chunks.m3u8
 #EXTINF:-1, 9X Jalwa
 http://tvserver.roarzone.info:8082/91/index.m3u8
 #EXTINF:-1, B4U Music
@@ -210,8 +212,6 @@ http://tvserver.roarzone.info:8082/55/index.m3u8
 http://tvserver.roarzone.info:8082/56/index.m3u8
 #EXTINF:-1,Sony TEN 3
 http://tvserver.roarzone.info:8082/57/index.m3u8
-#EXTINF:-1,Ten Cricket
-http://tv.ebox.live/live/ten-sports.m3u8
 #EXTINF:-1,PTV Sports
 http://tvserver.roarzone.info:8082/65/index.m3u8
 #EXTINF:-1,Willo Cricket
