@@ -81,10 +81,8 @@ https://anytv.gov.gdn/starplus/tracks-v1a1/mono.m3u8
 http://tvserver.roarzone.info:8082/13/index.m3u8
 #EXTINF:-1, Star Bharat
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:-1, Colors HD
-http://tvserver.roarzone.info:8082/13/index.m3u8
-#EXTINF:-1, Sony TV HD
-http://tvserver.roarzone.info:8082/81/index.m3u8
+#EXTINF:-1, Sony TV HD (icc)
+http://10.16.100.204:8080/tv204/sonyentertainmnt_720.m3u8
 #EXTINF:-1, Sony SAB HD
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 
