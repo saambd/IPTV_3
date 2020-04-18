@@ -128,6 +128,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
 #EXTINF:-1, Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1, Star Movies
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
 #EXTINF:-1, Movies Now
 https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
 #EXTINF:-1, Lotus TV Macau
@@ -148,6 +150,8 @@ http://10.16.100.204:8080/tv204/sony_pix720.m3u8
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 #EXTINF:-1, AXN
 https://anytv.gov.gdn/axn/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR WORLD FHD
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
 
 #EXTINF:-1, Nick Bangla
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
@@ -187,8 +191,8 @@ https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/340?cb=20150308151545" group-title="IN/Hindi",IN/Music B4U Plus (Movies)
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1, Zing
-http://tvserver.roarzone.info:8082/102/index.m3u8
+#EXTINF:-1,zing
+http://livecdnh1.tvanywhere.ae:80/hls/zing/index.m3u8
 #EXTINF:-1, B4U Plus SD
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/index.m3u8
 
