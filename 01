@@ -5,240 +5,236 @@ http://tvserver.roarzone.info:8082/30/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", Bangla Vision
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1, ATN Bangla		
+#EXTINF:-1 group-title="Bangla", ATN Bangla		
 http://tvserver.roarzone.info:8082/16/index.m3u8
-#EXTINF:-1, Channel I
+#EXTINF:-1 group-title="Bangla", Channel I
 http://tvserver.roarzone.info:8082/22/index.m3u8
-#EXTINF:-1, RTV
+#EXTINF:-1 group-title="Bangla", RTV
 http://tvserver.roarzone.info:8082/33/index.m3u8
-#EXTINF:-1, Boishakhi 
+#EXTINF:-1 group-title="Bangla", Boishakhi 
 http://tvserver.roarzone.info:8082/19/index.m3u8
-#EXTINF:-1, Ekattor
+#EXTINF:-1 group-title="Bangla", Ekattor
 http://tvserver.roarzone.info:8082/27/index.m3u8
-#EXTINF:-1, New24
+#EXTINF:-1 group-title="Bangla", New24
 http://tvserver.roarzone.info:8082/105/index.m3u8
-#EXTINF:-1, DBC News
+#EXTINF:-1 group-title="Bangla", DBC News
 http://tvserver.roarzone.info:8082/23/index.m3u8
-#EXTINF:-1, ATN News
+#EXTINF:-1 group-title="Bangla", ATN News
 http://tvserver.roarzone.info:8082/17/index.m3u8
-#EXTINF:-1, Gan Bangla
+#EXTINF:-1 group-title="Bangla", Gan Bangla
 http://tvserver.roarzone.info:8082/98/index.m3u8
-#EXTINF:-1, Channel 9
+#EXTINF:-1 group-title="Bangla", Channel 9
 http://telelivetv.webredirect.org:8081/globeworld2020/channel9/chunks.m3u8
-#EXTINF:-1,Bangla TV
+#EXTINF:-1 group-title="Bangla", Bangla TV
 http://telelivetv.webredirect.org:8081/globeworld2020/banglatv/chunks.m3u8
-#EXTINF:-1, Bijoy TV
+#EXTINF:-1 group-title="Bangla", Bijoy TV
 http://tvserver.roarzone.info:8082/101/index.m3u8
-#EXTINF:-1, Peace TV Bangla
+#EXTINF:-1 group-title="Bangla", Peace TV Bangla
 http://tvserver.roarzone.info:8082/52/index.m3u8
-#EXTINF:-1, Channel 24
+#EXTINF:-1 group-title="Bangla", Channel 24
 http://tvserver.roarzone.info:8082/21/index.m3u8
-#EXTINF:-1, Deepto TV
+#EXTINF:-1 group-title="Bangla", Deepto TV
 http://tvserver.roarzone.info:8082/24/index.m3u8
-#EXTINF:-1, Desh TV
+#EXTINF:-1 group-title="Bangla", Desh TV
 http://tvserver.roarzone.info:8082/25/index.m3u8
-#EXTINF:-1, Ekushey TV
+#EXTINF:-1 group-title="Bangla", Ekushey TV
 http://ddn.amrbd.com:8081/live/ekushey/playlist.m3u8
-#EXTINF:-1, Independent TV
+#EXTINF:-1 group-title="Bangla", Independent TV
 http://tvserver.roarzone.info:8082/29/index.m3u8
-#EXTINF:-1, Mashranga TV
+#EXTINF:-1 group-title="Bangla", Mashranga TV
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1, Mohona TV
+#EXTINF:-1 group-title="Bangla", Mohona TV
 https://bracnet.iptv.jadoodigital.com/live/mohona_tv/chunks.m3u8
-#EXTINF:-1, SA TV
+#EXTINF:-1 group-title="Bangla", SA TV
 https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
-#EXTINF:-1, My TV
+#EXTINF:-1 group-title="Bangla", My TV
 http://tvserver.roarzone.info:8082/43/index.m3u8
-#EXTINF:-1, NTV
+#EXTINF:-1 group-title="Bangla", NTV
 http://tvserver.roarzone.info:8082/31/index.m3u8
-#EXTINF:-1, Nagorik TV
+#EXTINF:-1 group-title="Bangla", Nagorik TV
 http://tvserver.roarzone.info:8082/32/index.m3u8
-#EXTINF:-1, Somoy tv
+#EXTINF:-1 group-title="Bangla", Somoy tv
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1, Duronto
+#EXTINF:-1 group-title="Bangla", Duronto
 http://tvserver.roarzone.info:8082/26/index.m3u8
-#EXTINF:-1, ZEE Bangla
+#EXTINF:-1 group-title="Bangla", ZEE Bangla
 http://tvserver.roarzone.info:8082/48/index.m3u8
-#EXTINF:-1, Star Jalsha HD
+#EXTINF:-1 group-title="Bangla", Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1, ZEE Bangla Cinema
+#EXTINF:-1 group-title="Bangla", ZEE Bangla Cinema
 http://tvserver.roarzone.info:8082/9/index.m3u8
-#EXTINF:-1, Star jalsha Movies
+#EXTINF:-1 group-title="Bangla", Star jalsha Movies
 http://tvserver.roarzone.info:8082/38/index.m3u8
-#EXTINF:-1, Sony AATH
+#EXTINF:-1 group-title="Bangla", Sony AATH
 http://tvserver.roarzone.info:8082/47/index.m3u8
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1 group-title="Bangla", Colors Bangla
 https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
-#EXTINF:-1, Sangeet Bangla
+#EXTINF:-1 group-title="Bangla", Sangeet Bangla
 https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1, ZEE TV
+#EXTINF:-1 group-title="Hindi Entertainment", ZEE TV
 http://tvserver.roarzone.info:8082/8/index.m3u8
-#EXTINF:-1, Star Plus
+#EXTINF:-1 group-title="Hindi Entertainment", Star Plus
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
-#EXTINF:-1, Star Plus HD 
+#EXTINF:-1 group-title="Hindi Entertainment",  Star Plus HD 
 https://anytv.gov.gdn/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Color HD
+#EXTINF:-1 group-title="Hindi Entertainment", Color HD
 http://tvserver.roarzone.info:8082/13/index.m3u8
-#EXTINF:-1, Star Bharat
+#EXTINF:-1 group-title="Hindi Entertainment", Star Bharat
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:-1, Sony TV HD (icc)
+#EXTINF:-1 group-title="Hindi Entertainment", Sony TV HD (icc)
 http://10.16.100.204:8080/tv204/sonyentertainmnt_720.m3u8
-#EXTINF:-1, Sony SAB HD
+#EXTINF:-1 group-title="Hindi Entertainment", Sony SAB HD
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 
 
 
 
-#EXTINF:-1, Star Gold HD
+#EXTINF:-1 group-title="Hindi Movies", Star Gold HD
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
-#EXTINF:-1, Star Gold HD (Backup Server)
+#EXTINF:-1 group-title="Hindi Movies", Star Gold HD (Backup Server)
 http://tvserver.roarzone.info:8082/12/index.m3u8
-#EXTINF:-1, ZEE Cinema HD
+#EXTINF:-1 group-title="Hindi Movies", ZEE Cinema HD
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
-#EXTINF:-1, ZEE Bollywood
+#EXTINF:-1 group-title="Hindi Movies", ZEE Bollywood
 http://tvserver.roarzone.info:8082/10/index.m3u8
-#EXTINF:-1, Sony MAX (icc)
+#EXTINF:-1 group-title="Hindi Movies", Sony MAX (icc)
 http://10.16.100.202:8080/tvs202/setmax_720.m3u8
-#EXTINF:-1, Sony MAX HD (icc)
+#EXTINF:-1 group-title="Hindi Movies", Sony MAX HD (icc)
 http://10.16.100.204:8080/tv204/setmax_hd720.m3u8
-#EXTINF:-1, Sony MAX (backup Server) 
+#EXTINF:-1 group-title="Hindi Movies", Sony MAX (backup Server) 
 http://tvserver.roarzone.info:8082/82/index.m3u8
-#EXTINF:-1 Sony MAX 2
+#EXTINF:-1 group-title="Hindi Movies", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:-1, Star Gold 2
+#EXTINF:-1 group-title="Hindi Movies", Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
-#EXTINF:-1, Monoranjan
+#EXTINF:-1 group-title="Hindi Movies", Monoranjan
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
-#EXTINF:-1, & Pictures (icc)
+#EXTINF:-1 group-title="Hindi Movies", & Pictures (icc)
 http://10.16.100.202:8080/tvs202/AndPicturesTV.m3u8
-#EXTINF:-1, B4u Kadak
+#EXTINF:-1 group-title="Hindi Movies", B4u Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/340?cb=20150308151545" group-title="IN/Hindi", B4U Plus (Movies)
+#EXTINF:-1 group-title="Hindi Movies", B4U Plus (Movies)
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://i.pinimg.com/originals/dd/87/69/dd8769ea2968303b5d826e2f2a0d2297.png" group-title="IN/Hindi",Bollywood HD(Movies)
+#EXTINF:-1 group-title="Hindi Movies", Bollywood HD(Movies)
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 
 
-#EXTINF:-1,MNX 
+
+#EXTINF:-1 group-title="English Movies", MNX 
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
-#EXTINF:-1, Star Movies HD
+#EXTINF:-1 group-title="English Movies", Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1, Star Movies
+#EXTINF:-1 group-title="English Movies", Star Movies
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8
-#EXTINF:-1, Movies Now
+#EXTINF:-1 group-title="English Movies", Movies Now
 https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
-#EXTINF:-1, Lotus TV Macau
+#EXTINF:-1 group-title="English Movies", Lotus TV Macau
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
-#EXTINF:-1, HBO 
+#EXTINF:-1 group-title="English Movies", HBO 
 https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Color Infinity HD
-http://tv.ebox.live/live/color-Infinity.m3u8
-#EXTINF:-1, VH1
+#EXTINF:-1 group-title="English Movies", VH1
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="IN/Hindi",IN: &Flix HD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andflixhd/index.m3u8
-#EXTINF:-1, FYI TV 18
+#EXTINF:-1 group-title="English Movies", FYI TV 18
 https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
-#EXTINF:-1, Sony Pix HD (icc)
+#EXTINF:-1 group-title="English Movies", Sony Pix HD (icc)
 http://10.16.100.204:8080/tv204/sony_pix720.m3u8
-#EXTINF:-1, Romedy Now
+#EXTINF:-1 group-title="English Movies", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
-#EXTINF:-1, AXN
+#EXTINF:-1 group-title="English Movies", AXN
 https://anytv.gov.gdn/axn/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR WORLD FHD
+#EXTINF:-1 group-title="English Movies", STAR WORLD FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
 
-#EXTINF:-1, Nick Bangla
+#EXTINF:-1 group-title="Cartoon", Nick Bangla
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
-#EXTINF:-1, Nick Sonic Bangla
+#EXTINF:-1 group-title="Cartoon ", Nick Sonic Bangla
 https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
-#EXTINF:-1, Nick JR.
+#EXTINF:-1 group-title="Cartoon ", Nick JR.
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
-#EXTINF:-1, Sony YAN Bangla
+#EXTINF:-1 group-title="Cartoon ", Sony YAY Bangla
 http://10.16.100.207:8082/sports/SONYYAY.m3u8
-#EXTINF:-1, Disney XD (icc)
+#EXTINF:-1 group-title="Cartoon ", Disney XD (icc)
 http://10.16.100.202:8080/tvs202/disneyxd.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 group-title="Cartoon ", Discovery Kids
 https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids/Animation",Disney Channel Eng
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CARTOON NETWORK Hindi
+#EXTINF:-1 group-title="Cartoon Movies", CARTOON NETWORK Hindi
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cartoon ",Disney Channel Eng
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, MTV Beats
+
+#EXTINF:-1 group-title="Music", MTV Beats
 https://bracnet.iptv.jadoodigital.com/live/mtv_beats/chunks.m3u8
-#EXTINF:-1, 9X Jalwa
+#EXTINF:-1 group-title="Music", 9X Jalwa
 http://tvserver.roarzone.info:8082/91/index.m3u8
-#EXTINF:-1, B4U Music
+#EXTINF:-1 group-title="Music", B4U Music
 http://tvserver.roarzone.info:8082/140/index.m3u8
-#EXTINF:-1, Dhoom Music
+#EXTINF:-1 group-title="Music", Dhoom Music
 http://tvserver.roarzone.info:8082/115/index.m3u8
-#EXTINF:-1, Fatafati Music
+#EXTINF:-1 group-title="Music", Fatafati Music
 http://tvserver.roarzone.info:8082/103/index.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="IN/Hindi",IN/Music Kadak Hitz
+#EXTINF:-1 group-title="Music",Kadak Hitz
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="IN/Hindi",IN/Music Zee ETC
+#EXTINF:-1 group-title="Music",Zee ETC
 https://streamer-1.toffeelive.com/live/z_etc_bollywood_720/index.m3u8
-#EXTINF:-1, ZOOM
+#EXTINF:-1 group-title="Music", ZOOM
 https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
-#EXTINF:-1, VH1
+#EXTINF:-1 group-title="Music", VH1
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/340?cb=20150308151545" group-title="IN/Hindi",IN/Music B4U Plus (Movies)
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1,zing
+#EXTINF:-1 group-title="Music",zing
 http://livecdnh1.tvanywhere.ae:80/hls/zing/index.m3u8
-#EXTINF:-1, B4U Plus SD
+#EXTINF:-1 group-title="Music",B4U Plus SD
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/index.m3u8
 
 
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 group-title="Knowledge & Lifestyle", Discovery HD
 https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 group-title="Knowledge & Lifestyle", Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1,FOX Life
+#EXTINF:-1 group-title="Knowledge & Lifestyle",FOX Life
 https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
-#EXTINF:-1, Nat Geo People
+#EXTINF:-1 group-title="Knowledge & Lifestyle",Nat Geo People
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1, Nat Geo In
+#EXTINF:-1 group-title="Knowledge & Lifestyle", Nat Geo In
 https://bracnet.iptv.jadoodigital.com/live/nat_geo_in/chunks.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1fGWSqu8Vnu84zn72cJV5-xCFJj0vhegP?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Infotainment", Animal Planet HD Hindi
+#EXTINF:-1 group-title="Knowledge & Lifestyle",Animal Planet HD Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
-#EXTINF:-1, TLC HD
+#EXTINF:-1 group-title="Knowledge & Lifestyle", TLC HD
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
 
 
 
-#EXTINF:-1, Sony Six
+#EXTINF:-1 group-title="Sports", Sony Six
 http://tvserver.roarzone.info:8082/59/index.m3u8
-#EXTINF:-1, Sony Ten 1 
+#EXTINF:-1 group-title="Sports", Sony Ten 1 
 http://tvserver.roarzone.info:8082/55/index.m3u8
-#EXTINF:-1,Sony TEN 2
+#EXTINF:-1 group-title="Sports", Sony TEN 2
 http://tvserver.roarzone.info:8082/56/index.m3u8
-#EXTINF:-1,Sony TEN 3
+#EXTINF:-1 group-title="Sports", Sony TEN 3
 http://tvserver.roarzone.info:8082/57/index.m3u8
-#EXTINF:-1,PTV Sports
+#EXTINF:-1 group-title="Sports", PTV Sports
 http://tvserver.roarzone.info:8082/65/index.m3u8
-#EXTINF:-1,Willo Cricket
+#EXTINF:-1 group-title="Sports",Willo Cricket
 http://tv.ebox.live/live/willow-cric.m3u8
-#EXTINF:-1,Star Sports 1 Hindi
+#EXTINF:-1 group-title="Sports",Star Sports 1 Hindi
 https://anytv.gov.gdn/starsp1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports 2 HD
+#EXTINF:-1 group-title="Sports",Star Sports 2 HD
 https://anytv.gov.gdn/starsp2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports 3
+#EXTINF:-1 group-title="Sports",Star Sports 3
 http://tv.ebox.live/live/starsports-3.m3u8
-#EXTINF:-1,Star Sports Select 1 HD
+#EXTINF:-1 group-title="Sports",Star Sports Select 1 HD
 http://tv.ebox.live/live/starsportsselect-1.m3u8
-#EXTINF:-1,Star Sports Select 2 HD
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://tv.ebox.live/live/starsportsselect-2.m3u8
-#EXTINF:-1, Sky Sports Cricket HD
+#EXTINF:-1 group-title="Sports", Sky Sports Cricket HD
 http://tv.ebox.live/live/Sky-Sports-cric.m3u8
-#EXTINF:-1, Sky Sports Mix
+#EXTINF:-1 group-title="Sports", Sky Sports Mix
 http://tv.ebox.live/live/Sky-Sports-Mix.m3u8
-#EXTINF:-1, Sky Bein Sports HD 1
+#EXTINF:-1 group-title="Sports",Sky Bein Sports HD 1
 http://tvserver.roarzone.info:8082/73/index.m3u8
-#EXTINF:-1, Sky Bein Sports HD 2
+#EXTINF:-1 group-title="Sports",Sky Bein Sports HD 2
 http://tvserver.roarzone.info:8082/128/index.m3u8
-#EXTINF:-1, Fox Sports
+#EXTINF:-1 group-title="Sports", Fox Sports
 http://tvserver.roarzone.info:8082/143/index.m3u8
