@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Jamuna TV
+#EXTINF:-1 group-title="Bangla", Jamuna TV
 http://tvserver.roarzone.info:8082/30/index.m3u8
-#EXTINF:-1, Gazi TV (ipo srv)
+#EXTINF:-1 group-title="Bangla", Gazi TV (ipo srv)
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1, Bangla Vision
+#EXTINF:-1 group-title="Bangla", Bangla Vision
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:-1, ATN Bangla		
 http://tvserver.roarzone.info:8082/16/index.m3u8
@@ -113,9 +113,9 @@ https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 http://10.16.100.202:8080/tvs202/AndPicturesTV.m3u8
 #EXTINF:-1, B4u Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/340?cb=20150308151545" group-title="IN/Hindi",IN/Music B4U Plus (Movies)
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/340?cb=20150308151545" group-title="IN/Hindi", B4U Plus (Movies)
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="https://i.pinimg.com/originals/dd/87/69/dd8769ea2968303b5d826e2f2a0d2297.png" group-title="IN/Hindi",IN Bollywood HD(Movies)
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://i.pinimg.com/originals/dd/87/69/dd8769ea2968303b5d826e2f2a0d2297.png" group-title="IN/Hindi",Bollywood HD(Movies)
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 
