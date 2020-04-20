@@ -171,6 +171,8 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Music", MTV Beats
 https://bracnet.iptv.jadoodigital.com/live/mtv_beats/chunks.m3u8
+#EXTINF:-1 group-title="Music", MTV Beats (Backup)
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 group-title="Music", 9X Jalwa
 http://tvserver.roarzone.info:8082/91/index.m3u8
 #EXTINF:-1 group-title="Music", B4U Music
