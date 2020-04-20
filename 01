@@ -85,6 +85,8 @@ https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 http://10.16.100.204:8080/tv204/sonyentertainmnt_720.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", Sony SAB HD
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
+#EXTINF:-1,Sony SAB HD (Backup)
+http://tv.ebox.live:8080/live/sony-sab.m3u8
 
 
 
