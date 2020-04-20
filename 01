@@ -33,8 +33,16 @@ http://tvserver.roarzone.info:8082/101/index.m3u8
 http://tvserver.roarzone.info:8082/52/index.m3u8
 #EXTINF:-1 group-title="Bangla", Peace TV Bangla (Backup)
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="Bangla", Iqra Bangla
+https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
 #EXTINF:-1 group-title="Bangla", Channel 24
 http://tvserver.roarzone.info:8082/21/index.m3u8
+#EXTINF:-1 group-title="Bangla",Ananda TV
+http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla", ATN Islamic TV
+http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla", Madani TV Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", Deepto TV
 http://tvserver.roarzone.info:8082/24/index.m3u8
 #EXTINF:-1 group-title="Bangla", Desh TV
@@ -51,6 +59,8 @@ https://bracnet.iptv.jadoodigital.com/live/mohona_tv/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", My TV
 http://tvserver.roarzone.info:8082/43/index.m3u8
+#EXTINF:-1 group-title="Bangla",Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 group-title="Bangla", NTV
 http://tvserver.roarzone.info:8082/31/index.m3u8
 #EXTINF:-1 group-title="Bangla", Nagorik TV
@@ -89,6 +99,12 @@ http://10.16.100.204:8080/tv204/sonyentertainmnt_720.m3u8
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", Sony SAB HD (Backup)
 http://tv.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment", A Plus
+http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Hindi Entertainment", HUM TV HD
+http://95.211.211.168/live/humtv0066/playlist.m3u8?checkedby:iptvcat.com
+
+
 
 
 
@@ -113,6 +129,8 @@ http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Monoranjan
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
+#EXTINF:-1 group-title="Hindi Movies",Sony Mix
+http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", & Pictures (icc)
 http://10.16.100.202:8080/tvs202/AndPicturesTV.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4u Kadak
@@ -213,6 +231,10 @@ http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 group-title="Music", VH1
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
+#EXTINF:-1 group-title="Music", Only Music
+http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
+#EXTINF:-1 group-title="Music", MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 
 
 
