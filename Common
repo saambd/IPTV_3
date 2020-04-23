@@ -228,8 +228,10 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4U Plus (Movies)
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 group-title="Hindi Movies", Bollywood HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 group-title="Hindi Movies", UAE MBC BOLLYWOOD 
+http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1,ME: MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
 
 
 
