@@ -49,7 +49,7 @@ https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Somoy News
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1,Gaan Bangla
+#EXTINF:-1 group-title="Bangla", Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
@@ -100,7 +100,7 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Entertainment", Sony SAB HD
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1,Colors Rishtey
+#EXTINF:-1 group-title="Hindi Entertainment", Colors Rishtey
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", A Plus
 http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
