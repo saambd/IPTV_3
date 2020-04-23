@@ -218,8 +218,6 @@ https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", STAR USTAV MOVIES 
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starutsavmovies/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Movies", UTV MOVIES 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4u Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4U Plus (Movies)
