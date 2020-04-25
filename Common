@@ -15,6 +15,8 @@ https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+#EXTINF:-1 group-title="Bangla", Sangsad TV
+https://bracnet.iptv.jadoodigital.com/live/sangsad_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 24
@@ -51,6 +53,16 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+#EXTINF:-1 group-title="Bangla", Ruposhi Bangla
+https://bracnet.iptv.jadoodigital.com/live/ruposhi_bangla/chunks.m3u8
+#EXTINF:-1 group-title="Bangla", Mohona TV
+https://bracnet.iptv.jadoodigital.com/live/mohona_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla", Probashi Bangla
+https://bracnet.iptv.jadoodigital.com/live/probashibangla/chunks.m3u8
+#EXTINF:-1 group-title="Bangla", Bangla Tv (icc)
+http://10.16.100.203:8082/bangla/banglatv_hd.m3u8
+#EXTINF:-1 group-title="Bangla", Bijoy Tv (icc)
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
 #EXTINF:-1 group-title="Bangla", Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", Iqra Bangla
@@ -65,10 +77,14 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Star Jalsha
 http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla", Star Jalsha HD (Backup 1)
+http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-1 group-title="Bangla",ABP Ananda 
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 group-title="Bangla", SONY AATH 
 http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla", SONY AATH (icc_backup)
@@ -204,8 +220,10 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 #EXTINF:-1,STAR GOLD HD http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold HD (Backup)
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Movies", ZEE Cinema HD
+#EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeecinemahd/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE ACTION
  http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeaction/playlist.m3u8 
 #EXTINF:-1 group-title="Hindi Movies", Zee Classic
@@ -218,6 +236,8 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
+#EXTINF:-1 group-title="Hindi Movies",  UTV MOVIES 
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Monoranjan
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Sony WAH
@@ -228,11 +248,6 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4U Plus (Movies)
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 group-title="Hindi Movies", UAE MBC BOLLYWOOD 
-http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1,ME: MBC BOLLYWOOD
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
-
 
 
 
@@ -314,10 +329,14 @@ https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 group-title="Sports", SONY SIX HD 
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne 
-#EXTINF:-1 group-title="Sports", STAR SPORTS 2 HD 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
 #EXTINF:-1 group-title="Sports", PTV SPORTS 
 http://43.251.86.2:8080/hls/channel_2.m3u8
+#EXTINF:-1 group-title="Sports", STAR SPORTS 1
+#EXTINF:-1,IN: STAR SPORTS 1 http://103.205.133.19/hls/starsports1.m3u8
+#EXTINF:-1 group-title="Sports", STAR SPORTS 1 HD 
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
+#EXTINF:-1 group-title="Sports", STAR SPORTS 2
+#EXTINF:-1,IN: STAR SPORTS 1 http://43.251.86.2:8080/hls/channel_3.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 1
  http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 2 
