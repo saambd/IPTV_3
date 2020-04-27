@@ -87,12 +87,9 @@ https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 group-title="Bangla", SONY AATH 
 http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla", SONY AATH (icc_backup)
-http://10.16.100.202:8080/tvs202/sony_8.m3u8
-#EXTINF:-1 group-title="Bangla", Sangeet Bangla
-https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 group-title="Bangla", Sangeet Bangla (icc_Backup)
-http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1 group-title="Bangla", SONY AATH (icc_backup) 
+http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
+
 
 ||||||||||||||||||||||||Hindi Entertainment||||||||||||||||||||
 
@@ -185,8 +182,14 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 https://bracnet.iptv.jadoodigital.com/live/b4u_music/chunks.m3u8
 #EXTINF:-1 group-title="Music", B4U Music (Backup)
 https://itpolly.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
+#EXTINF:-1 group-title="Music", MUSIC INDIA
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="Music", Fatafati Music
 https://bracnet.iptv.jadoodigital.com/live/music_fatafati/chunks.m3u8
+#EXTINF:-1 group-title="Music",Dhoom Music
+https://bracnet.iptv.jadoodigital.com/live/dhoom_music/chunks.m3u8
+#EXTINF:-1 group-title="Music", Sangeet Bangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 group-title="Music",Kadak Hitz
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Music", VH1
@@ -203,6 +206,8 @@ http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 group-title="Music", VH1
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
+#EXTINF:-1 group-title="Music", 9XO 
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 group-title="Music", Only Music
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:-1 group-title="Music", MH1 Music
@@ -347,6 +352,8 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
  http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect1/playlist.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 2 
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8 
+#EXTINF:-1 group-title="Sports", DD Sports
+https://bracnet.iptv.jadoodigital.com/live
 
 
 
