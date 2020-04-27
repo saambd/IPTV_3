@@ -7,7 +7,7 @@ https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.techpowerup.org/200427/1200px-atn-bangla-svg.png" group-title="Bangla",ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 group-title="Bangla", ATN News
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download.png" group-title="Bangla", ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Banglavision TV
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
