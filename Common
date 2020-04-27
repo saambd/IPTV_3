@@ -103,7 +103,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Plus HD
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starplusuk/playlist.m3u8
+https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Plus ( Backup Server)
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Bharat HS
@@ -214,12 +214,14 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 
 ||||||||||||||||||||||||||||| Hindi Movies|||||||||||||||||||||||||||||||||||||
 
-#EXTINF:-1 group-title="Hindi Movies", STAR GOLD 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargolduk/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Movies", Star Gold HD 
-#EXTINF:-1,STAR GOLD HD http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi Movies", Star Gold HD (Backup)
-https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Hindi Movies", Sony MAX 
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/1200px-Sony_MAX.svg.jpg" group-title="Hindi Movies",SONY MAX (Backup)
+http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
+#EXTINF:-1 group-title="Hindi Movies", Sony MAX HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
@@ -228,18 +230,22 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
  http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeaction/playlist.m3u8 
 #EXTINF:-1 group-title="Hindi Movies", Zee Classic
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Movies", Sony MAX 
-https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 group-title="Hindi Movies", Sony MAX HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Movies", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Movies", STAR GOLD 
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargolduk/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Movies", Star Gold HD 
+http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi Movies", Star Gold HD (Backup)
+https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies",  UTV MOVIES 
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Monoranjan
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
+#EXTINF:-1 group-title="Hindi Movies", WOW CINEMA ONE 
+http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Sony WAH
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", STAR USTAV MOVIES 
