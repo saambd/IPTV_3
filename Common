@@ -50,7 +50,7 @@ https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",SA TV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Somoy News
+#EXTINF:-1 tvg-logo="https://pasteboard.co/J5Mc2Ba.png" group-title="Bangla",Somoy News
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 group-title="Bangla", Gaan Bangla
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
