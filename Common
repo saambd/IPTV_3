@@ -75,8 +75,8 @@ http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/066d4ac2d9632f6d63bdb6cf6ba066b2.png"  group-title="Bangla",Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Star-Jalsha.png"  group-title="Bangla",Star Jalsha
-http://103.115.159.37:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Star-Jalsha.png"  group-title="Bangla",Star Jalsha HD
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="Bangla", Star Jalsha HD (Backup 1)
 http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Jalsha_movies.png"  group-title="Bangla",Star Jalsha Movies
