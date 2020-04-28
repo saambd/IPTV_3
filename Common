@@ -189,6 +189,8 @@ https://bracnet.iptv.jadoodigital.com/live/music_fatafati/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/dhoom_music/chunks.m3u8
 #EXTINF:-1 group-title="Music", Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1 group-title="Music", Shemaroo Hindi 
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 group-title="Music",Kadak Hitz
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Music", VH1
@@ -244,8 +246,6 @@ http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://streamtest.in/fallback/default.png?v=1572942962" group-title="Hindi Movies", Shemaroo Hindi 
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 group-title="Hindi Movies",  UTV MOVIES 
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Monoranjan
