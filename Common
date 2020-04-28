@@ -11,19 +11,19 @@ https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download_2.png"  group-title="Bangla",Banglavision TV
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Boishakhi TV
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Boishakhi_TV_logo.svg.png"group-title="Bangla",Boishakhi TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",BTV World
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/99ZKMd4mWYM.png"  group-title="Bangla",BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 group-title="Bangla", Sangsad TV
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/sangsad.png"  group-title="Bangla", Sangsad TV
 https://bracnet.iptv.jadoodigital.com/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Channel 9
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Channel9_bd.svg.png"  group-title="Bangla",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Channel 24
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Channel24logo.svg.png"  group-title="Bangla",Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Channel I
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Channel-i.svg.png"  group-title="Bangla",Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",DBC News
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/DBC_News_logo.png"  group-title="Bangla",DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
