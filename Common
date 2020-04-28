@@ -248,6 +248,8 @@ http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
+#EXTINF:-1 group-title="Hindi Movies", Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1 group-title="Hindi Movies",  UTV MOVIES 
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Monoranjan
