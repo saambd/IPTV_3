@@ -209,6 +209,8 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1 group-title="Music", 9XO 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.streamtest.in/logo/8636/278_box-hits.jpg?v=1585682195" group-title="Music", Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 group-title="Music", Only Music
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:-1 group-title="Music", MH1 Music
