@@ -93,7 +93,7 @@ http://10.16.100.202:8080/tvs202/sony_8.m3u8
 ||||||||||||||||||||||||Hindi Entertainment||||||||||||||||||||
 
 #EXTINF:-1 group-title="Hindi Entertainment", ZEE TV HD 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeetvme/playlist.m3u8 
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8 
 #EXTINF:-1 group-title="Hindi Entertainment",Zee TV (Backup)
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Colors HD
@@ -233,25 +233,29 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdn
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeecinemahd/playlist.m3u8
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE ACTION
- http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/zeeaction/playlist.m3u8 
+http://livecdnh1.tvanywhere.ae:80/hls/zee_action/index.m3u8 
 #EXTINF:-1 group-title="Hindi Movies", Zee Classic
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", STAR GOLD 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargolduk/playlist.m3u8
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold HD 
 http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold HD (Backup)
-https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold 2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1 group-title="Hindi Movies", Zee Biskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 group-title="Hindi Movies", &Pictures
+http://42.98.109.147:9981/stream/channelid/1969735173
 #EXTINF:-1 group-title="Hindi Movies",  UTV MOVIES 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
+http://42.98.109.147:9981/stream/channelid/2098374654
 #EXTINF:-1 group-title="Hindi Movies", Monoranjan
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", WOW CINEMA ONE 
@@ -282,6 +286,12 @@ https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 group-title="English Movies", HBO 
 https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="English Movies",HBO (Backup)
+http://42.98.109.147:9981/stream/channelid/1935563531
+#EXTINF:-1 group-title="English Movies",HBO 2 HD
+http://42.98.109.147:9981/stream/channelid/1691890187
+#EXTINF:-1 group-title="English Movies",HBO 3 HD
+http://42.98.109.147:9981/stream/channelid/1292392431
 #EXTINF:-1 group-title="English Movies", Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 group-title="English Movies", Fox Action Movies
@@ -298,6 +308,8 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 https://anytv.gov.gdn/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="English Movies", AXN HD (Backup)
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="English Movies", &Flix
+http://42.98.109.147:9981/stream/channelid/1900232811
 #EXTINF:-1 group-title="English Movies", STAR WORLD FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
 
@@ -305,7 +317,10 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
 
 ||||||||||||||||||||||||||||||||| Cartoon||||||||||||||||||||||||||||||||||||
 
-
+#EXTINF:-1 group-title="Cartoon ", Disney Hindi
+http://42.98.109.147:9981/stream/channelid/1506744661
+#EXTINF:-1 group-title="Cartoon ", Hungama
+http://42.98.109.147:9981/stream/channelid/1547633542
 #EXTINF:-1 group-title="Cartoon ", Nick Bangla
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 group-title="Cartoon ", Nick Sonic Bangla
@@ -324,6 +339,8 @@ https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1 group-title="Cartoon ", CARTOON NETWORK Hindi
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Cartoon ", CARTOON NETWORK Hindi (Backup)
+http://42.98.109.147:9981/stream/channelid/1250940728
 #EXTINF:-1 group-title="Cartoon ",Disney Channel Eng
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cartoon ", MediaCorp Channel 5
@@ -361,7 +378,35 @@ http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveI
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsportsselect2/playlist.m3u8 
 #EXTINF:-1 group-title="Sports", DD Sports
 https://bracnet.iptv.jadoodigital.com/live
-
-
+#EXTINF:-1 group-title="Sports", Bein Sports
+http://42.98.109.147:9981/stream/channelid/1270056858
+#EXTINF:-1 group-title="Sports", Bein Sports 1
+http://42.98.109.147:9981/stream/channelid/1880674381
+#EXTINF:-1 group-title="Sports", Bein Sports 10
+http://42.98.109.147:9981/stream/channelid/151983205
+#EXTINF:-1 group-title="Sports", Bein Sports 11
+http://42.98.109.147:9981/stream/channelid/42641201
+#EXTINF:-1 group-title="Sports", Bein Sports 2
+http://42.98.109.147:9981/stream/channelid/1218047888
+#EXTINF:-1 group-title="Sports", Bein Sports 4
+http://42.98.109.147:9981/stream/channelid/371552797
+#EXTINF:-1 group-title="Sports", Bein Sports 5
+http://42.98.109.147:9981/stream/channelid/1867525775
+#EXTINF:-1 group-title="Sports", Bein Sports 6
+http://42.98.109.147:9981/stream/channelid/169743099
+#EXTINF:-1 group-title="Sports", Bein Sports 7
+http://42.98.109.147:9981/stream/channelid/1364029608
+#EXTINF:-1 group-title="Sports", Bein Sports 8
+http://42.98.109.147:9981/stream/channelid/1027178937
+#EXTINF:-1 group-title="Sports", Bein Sports 9
+http://42.98.109.147:9981/stream/channelid/1005820488
+#EXTINF:-1 group-title="Sports",FOX SPORTS 1 [Server 2]
+http://42.98.109.147:9981/stream/channelid/1821842711
+#EXTINF:-1 group-title="Sports",FOX SPORTS 2 [Server 2]
+http://42.98.109.147:9981/stream/channelid/1917442074
+#EXTINF:-1 group-title="Sports",FOX SPORTS 3 [Server 2]
+http://42.98.109.147:9981/stream/channelid/946453276
+#EXTINF:-1 group-title="Sports",Fox Sports HD
+http://42.98.109.147:9981/stream/channelid/1175354037
 
 
