@@ -111,6 +111,8 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 #EXTINF:-1 group-title="Hindi Entertainment", SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Entertainment", Sony SAB SD (Backup Server)
+#EXTINF:-1 group-title="Hindi Entertainment", SONY SAB SD (Backup Server 2)
+http://42.98.109.147:9981/stream/channelid/1365431141
 http://103.205.133.19/hls/sonysab.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", Colors Rishtey
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
@@ -294,6 +296,8 @@ http://42.98.109.147:9981/stream/channelid/1691890187
 http://42.98.109.147:9981/stream/channelid/1292392431
 #EXTINF:-1 group-title="English Movies", Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="English Movies", WB
+http://42.98.109.147:9981/stream/channelid/322256276
 #EXTINF:-1 group-title="English Movies", Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="English Movies", Sony Movies
@@ -331,6 +335,8 @@ https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
 http://10.16.100.207:8082/sports/SONYYAY.m3u8
 #EXTINF:-1 group-title="Cartoon ", Sony YAY Hindi
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Cartoon ", Pogo
+http://42.98.109.147:9981/stream/channelid/1948507640
 #EXTINF:-1 group-title="Cartoon ", Disney XD (icc)
 http://10.16.100.202:8080/tvs202/disneyxd.m3u8
 #EXTINF:-1 group-title="Cartoon ", Discovery Kids
@@ -341,6 +347,8 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Cartoon ", CARTOON NETWORK Hindi (Backup)
 http://42.98.109.147:9981/stream/channelid/1250940728
+#EXTINF:-1 group-title="Cartoon ",ANIMANIACS 24HS
+http://51.81.254.252:25461/2020/2020/15962
 #EXTINF:-1 group-title="Cartoon ",Disney Channel Eng
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cartoon ", MediaCorp Channel 5
@@ -368,6 +376,8 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 http://43.251.86.2:8080/hls/channel_2.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS 1
 #EXTINF:-1,IN: STAR SPORTS 1 http://103.205.133.19/hls/starsports1.m3u8
+#EXTINF:-1 group-title="Sports", STAR SPORTS 1 Hindi
+http://42.98.109.147:9981/stream/channelid/2108154942
 #EXTINF:-1 group-title="Sports", STAR SPORTS 1 HD 
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS 2
