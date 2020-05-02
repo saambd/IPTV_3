@@ -233,11 +233,11 @@ http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
-https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
+http://103.205.133.14/hls/zeecinema.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE ACTION
-http://livecdnh1.tvanywhere.ae:80/hls/zee_action/index.m3u8 
+http://103.205.133.14/hls/zeeaction.m3u8 
 #EXTINF:-1 group-title="Hindi Movies", Zee Classic
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Sony Max 2
@@ -248,8 +248,6 @@ http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold HD (Backup)
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Movies", Star Gold 2
-https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Biskop
@@ -258,14 +256,10 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 http://42.98.109.147:9981/stream/channelid/1969735173
 #EXTINF:-1 group-title="Hindi Movies",  UTV MOVIES 
 http://42.98.109.147:9981/stream/channelid/2098374654
-#EXTINF:-1 group-title="Hindi Movies", Monoranjan
-https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", WOW CINEMA ONE 
 http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Sony WAH
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hindi Movies", STAR USTAV MOVIES 
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starutsavmovies/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4u Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4U Plus (Movies)
@@ -279,13 +273,13 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 group-title="English Movies", MNX 
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
 #EXTINF:-1 group-title="English Movies", Star Movies HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/47
 #EXTINF:-1 group-title="English Movies", Star Movies
 http://42.98.109.147:9981/stream/channelid/810810680
+#EXTINF:-1 group-title="English Movies",MBC Max HD
+http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/46
 #EXTINF:-1 group-title="English Movies", Movies Now
-https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
-#EXTINF:-1 group-title="English Movies", Lotus TV Macau
-https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 group-title="English Movies", HBO 
 https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="English Movies",HBO (Backup)
@@ -303,19 +297,17 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="English Movies", Sony Movies
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 group-title="English Movies", SONY PIX HD 
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne  
+http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 #EXTINF:-1 group-title="English Movies", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 #EXTINF:-1 group-title="English Movies", MBC 2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 #EXTINF:-1 group-title="English Movies", AXN
-https://anytv.gov.gdn/axn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="English Movies", AXN HD (Backup)
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 group-title="English Movies", &Flix
 http://42.98.109.147:9981/stream/channelid/1900232811
 #EXTINF:-1 group-title="English Movies", STAR WORLD FHD
-http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
+http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/48
 
 
 
@@ -325,12 +317,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
 http://42.98.109.147:9981/stream/channelid/1506744661
 #EXTINF:-1 group-title="Cartoon ", Hungama
 http://42.98.109.147:9981/stream/channelid/1547633542
-#EXTINF:-1 group-title="Cartoon ", Nick Bangla
-https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 group-title="Cartoon ", Nick Sonic Bangla
-https://bracnet.iptv.jadoodigital.com/live/sonic/chunks.m3u8
-#EXTINF:-1 group-title="Cartoon ", Nick JR.
-https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
+#EXTINF:-1 group-title="Cartoon ", Nick 
+http://42.98.109.147:9981/stream/channelid/1349387134
 #EXTINF:-1 group-title="Cartoon ", Sony YAY Bangla (icc)
 http://10.16.100.207:8082/sports/SONYYAY.m3u8
 #EXTINF:-1 group-title="Cartoon ", Sony YAY Hindi
@@ -351,10 +339,8 @@ http://42.98.109.147:9981/stream/channelid/1250940728
 http://51.81.254.252:25461/2020/2020/15962
 #EXTINF:-1 group-title="Cartoon ",Disney Channel Eng
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cartoon ", MediaCorp Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1 group-title="Cartoon ", Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
+
+
 
 
 
