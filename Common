@@ -15,8 +15,6 @@ https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/99ZKMd4mWYM.png"  group-title="Bangla",BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/sangsad.png"  group-title="Bangla", Sangsad TV
-https://bracnet.iptv.jadoodigital.com/live/sangsad_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Channel9_bd.svg.png"  group-title="Bangla",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Channel24logo.svg.png"  group-title="Bangla",Channel 24
@@ -35,8 +33,6 @@ https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/unnamed_1.png"  group-title="Bangla",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download_2_1.png"  group-title="Bangla", Ruposhi Bangla
-https://bracnet.iptv.jadoodigital.com/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Independent_Television_Logo.svg.png"  group-title="Bangla",Independent TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Jamuna-tv-live.png" group-title="Bangla",Jamuna TV
@@ -57,8 +53,6 @@ https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Mohona_Logo.png"  group-title="Bangla", Mohona TV
 https://bracnet.iptv.jadoodigital.com/live/mohona_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download_3_1.png"  group-title="Bangla", Probashi Bangla
-https://bracnet.iptv.jadoodigital.com/live/probashibangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Bangla_Tv_Logo.png"  group-title="Bangla", Bangla Tv (icc)
 http://10.16.100.203:8082/bangla/banglatv_hd.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/logo.png"  group-title="Bangla", Bijoy Tv (icc)
@@ -77,18 +71,17 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Star-Jalsha.png"  group-title="Bangla",Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Star_Jalsha_HD_2019_Chalo_Paltai.png"  group-title="Bangla", Star Jalsha HD (Backup 1)
-http://ddn.amrbd.com:8081/live/starjalsha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Jalsha_movies.png"  group-title="Bangla",Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/cropped-Z-B-512x512-2.png"  group-title="Bangla",Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/abp_ananda-1200x900.png"  group-title="Bangla",ABP Ananda 
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Sony-Aath.png"  group-title="Bangla", SONY AATH 
-http://103.115.159.37:8080/sonyaath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Sony-Aath.png"  group-title="Bangla", SONY AATH (icc_backup) 
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Sony-Aath.png"  group-title="Bangla", SONY AATH  
 http://10.16.100.202:8080/tvs202/sony_8.m3u8
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Sony-Aath.png"  group-title="Bangla", SONY AATH (icc_backup)
+http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
+
 
 ||||||||||||||||||||||||Hindi Entertainment||||||||||||||||||||
 
@@ -104,13 +97,14 @@ https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Bharat HS
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",IN: &TV HD
+#EXTINF:-1 group-title="Hindi Entertainment",&TV HD
  http://45.120.188.76:8080/0.ts
 #EXTINF:-1 group-title="Hindi Entertainment",  SONY TV HD 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Entertainment", SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Entertainment", Sony SAB SD (Backup Server)
+http://103.205.133.14/hls/sonysab.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", SONY SAB SD (Backup Server 2)
 http://42.98.109.147:9981/stream/channelid/1365431141
 http://103.205.133.19/hls/sonysab.m3u8
@@ -169,46 +163,30 @@ https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
 ||||||||||||||||||||||||||||| MUSIC |||||||||||||||||||||||||
 
-#EXTINF:-1 group-title="Music", ZOOM 
-https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
-#EXTINF:-1 group-title="Music",Zoom (Backup Server)
+#EXTINF:-1 group-title="Music",Zoom
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:-1 group-title="Music",MTV Beats
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-#EXTINF:-1 group-title="Music", MTV Beats (Backup)
-https://bracnet.iptv.jadoodigital.com/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 group-title="Music",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 group-title="Music", B4U Music
-https://bracnet.iptv.jadoodigital.com/live/b4u_music/chunks.m3u8
-#EXTINF:-1 group-title="Music", B4U Music (Backup)
 https://itpolly.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
 #EXTINF:-1 group-title="Music", MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="Music", Fatafati Music
-https://bracnet.iptv.jadoodigital.com/live/music_fatafati/chunks.m3u8
-#EXTINF:-1 group-title="Music",Dhoom Music
-https://bracnet.iptv.jadoodigital.com/live/dhoom_music/chunks.m3u8
 #EXTINF:-1 group-title="Music", Sangeet Bangla
 https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 #EXTINF:-1 group-title="Music", Shemaroo Hindi 
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 group-title="Music",Kadak Hitz
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Music", VH1
-https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1 group-title="Music",zing
-http://livecdnh1.tvanywhere.ae:80/hls/zing/index.m3u8
-#EXTINF:-1 group-title="Music",Zing (Backup)
-https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+http://103.205.133.14/hls/zing.m3u8
 #EXTINF:-1 group-title="Music",B4U Plus SD
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/index.m3u8
+http://ultraplay.org:25461/998501017/yhd634@FGGH/56507
 #EXTINF:-1 group-title="Music", Dhamaal
 http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 #EXTINF:-1 group-title="Music", Dil Se 
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:-1 group-title="Music", VH1
-https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
 #EXTINF:-1 group-title="Music", 9XO 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.streamtest.in/logo/8636/278_box-hits.jpg?v=1585682195" group-title="Music", Box Hits
@@ -226,10 +204,10 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Hindi Movies", Sony MAX 
-https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/1200px-Sony_MAX.svg.jpg" group-title="Hindi Movies",SONY MAX (Backup)
+#EXTINF:-1 ch-id="SONY MAX (IN)" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/1200px-Sony_MAX.svg.jpg" group-title="Hindi Movies",SONY MAX 
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
+#EXTINF:-1 group-title="Hindi Movies", Sony MAX (Backup) 
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
@@ -296,6 +274,8 @@ http://42.98.109.147:9981/stream/channelid/322256276
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="English Movies", Sony Movies
 http://51.52.156.22:8888/http/009
+#EXTINF:-1 group-title="English Movies", Sony Pix
+http://103.205.133.14/hls/sonypix.m3u8
 #EXTINF:-1 group-title="English Movies", SONY PIX HD 
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 #EXTINF:-1 group-title="English Movies", Romedy Now
