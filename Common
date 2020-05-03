@@ -212,6 +212,8 @@ http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Hindi Movies", Sony MAX HD (Backup icc)
+http://10.16.100.204:8080/tv204/setmax_hd720.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
 http://103.205.133.14/hls/zeecinema.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
@@ -222,7 +224,9 @@ http://103.205.133.14/hls/zeeaction.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Movies", STAR GOLD 
+#EXTINF:-1 group-title="Hindi Movies", STAR GOLD
+http://42.98.109.147:9981/stream/channelid/1094486655
+#EXTINF:-1 group-title="Hindi Movies", STAR GOLD (Backup)
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold HD 
 http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
@@ -272,6 +276,8 @@ http://42.98.109.147:9981/stream/channelid/1292392431
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 group-title="English Movies", WB
 http://42.98.109.147:9981/stream/channelid/322256276
+#EXTINF:-1 group-title="English Movies", Lotus Macau (icc)
+http://10.16.100.204:8080/tv204/lotus720.m3u8
 #EXTINF:-1 group-title="English Movies", Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="English Movies", Sony Movies
