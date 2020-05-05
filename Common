@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", Gazi Tv
 https://anytv.gov.gdn/gazi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-y1O6rQ-htg8/U2zYJCeve-I/AAAAAAAAAK0/Ae8lqaDE7S0/s1600/Maasranga+Tv+Update+New+Biss+key++Code+On+Apsa+7E.png" group-title="Bangla",Maasranga
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+http://tv-cdn.ihub.live:8080/Maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Asian_TV_Logo.svg.png" group-title="Bangla",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.techpowerup.org/200427/1200px-atn-bangla-svg.png" group-title="Bangla",ATN Bangla
 http://103.205.133.14/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download.png" group-title="Bangla", ATN News
-https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+http://tv-cdn.ihub.live:8080/ATNNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download_2.png"  group-title="Bangla",Banglavision TV
 http://103.205.133.14/hls/banglavision.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Boishakhi_TV_logo.svg.png"group-title="Bangla",Boishakhi TV
