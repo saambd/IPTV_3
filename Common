@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", Gazi Tv
-https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+https://anytv.gov.gdn/gazi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-y1O6rQ-htg8/U2zYJCeve-I/AAAAAAAAAK0/Ae8lqaDE7S0/s1600/Maasranga+Tv+Update+New+Biss+key++Code+On+Apsa+7E.png" group-title="Bangla",Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Asian_TV_Logo.svg.png" group-title="Bangla",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.techpowerup.org/200427/1200px-atn-bangla-svg.png" group-title="Bangla",ATN Bangla
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+http://103.205.133.14/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download.png" group-title="Bangla", ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download_2.png"  group-title="Bangla",Banglavision TV
@@ -14,7 +14,7 @@ http://103.205.133.14/hls/banglavision.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Boishakhi_TV_logo.svg.png"group-title="Bangla",Boishakhi TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/99ZKMd4mWYM.png"  group-title="Bangla",BTV World
-https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+http://103.205.133.14/hls/btvworld.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Channel9_bd.svg.png"  group-title="Bangla",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Channel24logo.svg.png"  group-title="Bangla",Channel 24
@@ -22,15 +22,17 @@ https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-Channel-i.svg.png"  group-title="Bangla",Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/DBC_News_logo.png"  group-title="Bangla",DBC News
-https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+http://103.205.133.14/hls/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/unnamed.png"  group-title="Bangla",Deepto TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+http://103.205.133.14/hls/deeptotv.m3u8
+#EXTINF:-1 group-title="Bangla", My TV
+http://103.205.133.14/hls/mytv.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download_1_1.png"  group-title="Bangla",Desh TV
-https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+http://103.205.133.14/hls/deshtv.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/kotha.png"  group-title="Bangla",Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Ekattor_TV_logo.png"  group-title="Bangla",Ekattor TV
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+https://anytv.gov.gdn/ekattor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/unnamed_1.png"  group-title="Bangla",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Independent_Television_Logo.svg.png"  group-title="Bangla",Independent TV
@@ -38,17 +40,19 @@ https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Jamuna-tv-live.png" group-title="Bangla",Jamuna TV
 http://103.205.133.14/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/1200px-NTV_Bangladesh_logo.svg.png"  group-title="Bangla",NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
+http://103.205.133.14/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download_4.png"  group-title="Bangla",Nagorik TV
 https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/rtv_share.png"  group-title="Bangla",RTV
-https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+http://103.205.133.14/hls/rtv.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/photo-1489129963.png"  group-title="Bangla",SA TV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+http://103.205.133.14/hls/satv.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/4b2f313b86df0505ff8277c57bdba411.png"  group-title="Bangla",Somoy News
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+#EXTINF:-1  group-title="Bangla",News 24
+http://103.205.133.14/hls/news24.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Gaan_Bangla.png"  group-title="Bangla", Gaan Bangla
-https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+http://103.205.133.14/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/download_2_2.png"  group-title="Bangla", Ruposhi Bangla
 https://bracnet.iptv.jadoodigital.com/live/ruposhi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Mohona_Logo.png"  group-title="Bangla", Mohona TV
@@ -74,7 +78,7 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Jalsha_movies.png"  group-title="Bangla",Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/cropped-Z-B-512x512-2.png"  group-title="Bangla",Zee Bangla
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+http://103.205.133.14/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/abp_ananda-1200x900.png"  group-title="Bangla",ABP Ananda 
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Sony-Aath.png"  group-title="Bangla", SONY AATH  
@@ -88,9 +92,9 @@ http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", ZEE TV HD 
 http://bolly360.xyz/zee.php?c=ztvme
 #EXTINF:-1 group-title="Hindi Entertainment",Zee TV (Backup)
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+http://103.205.133.14/hls/zeetvhd.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Colors HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+http://103.205.133.14/hls/colors.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Plus HD
 https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Plus ( Backup Server)
@@ -176,7 +180,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 #EXTINF:-1 group-title="Music", Hungama Digital Network
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 #EXTINF:-1 group-title="Music", Sangeet Bangla
-https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+http://103.205.133.14/hls/sangeetbangla.m3u8
 #EXTINF:-1 group-title="Music", Shemaroo Hindi 
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 group-title="Music",Kadak Hitz
