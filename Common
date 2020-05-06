@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", Gazi Tv
-https://anytv.gov.gdn/gazi/tracks-v1a1/mono.m3u8
+http://tv-cdn.ihub.live:8080/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-y1O6rQ-htg8/U2zYJCeve-I/AAAAAAAAAK0/Ae8lqaDE7S0/s1600/Maasranga+Tv+Update+New+Biss+key++Code+On+Apsa+7E.png" group-title="Bangla",Maasranga
-http://tv-cdn.ihub.live:8080/Maasranga/tracks-v1a1/mono.m3u8
+http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Asian_TV_Logo.svg.png" group-title="Bangla",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.techpowerup.org/200427/1200px-atn-bangla-svg.png" group-title="Bangla",ATN Bangla
@@ -75,16 +75,18 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 http://tv-cdn.ihub.live:8080/ColorsBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Star-Jalsha.png"  group-title="Bangla",Star Jalsha HD
 http://tv-cdn.ihub.live:8080/StarJalshaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Jalsha_movies.png"  group-title="Bangla",Star Jalsha Movies HD
+http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Jalsha_movies.png"  group-title="Bangla",Star Jalsha Movies
 http://ddn.amrbd.com:8081/live/jalshamovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/cropped-Z-B-512x512-2.png"  group-title="Bangla",Zee Bangla
-http://103.205.133.14/hls/zeebangla.m3u8
+http://175.41.46.16:8081/hls/6.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/abp_ananda-1200x900.png"  group-title="Bangla",ABP Ananda 
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Sony-Aath.png"  group-title="Bangla", SONY AATH  
-http://10.16.100.202:8080/tvs202/sony_8.m3u8
-#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Sony-Aath.png"  group-title="Bangla", SONY AATH (icc_backup)
 http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
+#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/Sony-Aath.png"  group-title="Bangla", SONY AATH (icc_backup)
+http://10.16.100.202:8080/tvs202/sony_8.m3u8
 
 
 ||||||||||||||||||||||||Hindi Entertainment||||||||||||||||||||
@@ -140,11 +142,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 |||||||||||||||||||||Knowledge & Lifestyle||||||||||||||||||
 
 #EXTINF:-1 group-title="Knowledge & Lifestyle", Nat Geo 
-https://bracnet.iptv.jadoodigital.com/live/nat_geo_in/chunks.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle", Nat Geo People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle", NAT GEO WILD
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle", Discovery HD
 https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle", Discovery SCIENCE Hindi
@@ -156,9 +158,7 @@ https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle",History TV
-https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle",History_hindi
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+http://42.98.109.147:9981/stream/channelid/828611519
 #EXTINF:-1 group-title="Knowledge & Lifestyle",TLC HD
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
@@ -167,13 +167,11 @@ https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 ||||||||||||||||||||||||||||| MUSIC |||||||||||||||||||||||||
 
 #EXTINF:-1 group-title="Music",Zoom
-https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
-#EXTINF:-1 group-title="Music",MTV Beats
-https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1 group-title="Music",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 group-title="Music", B4U Music
-https://itpolly.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 group-title="Music", MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="Music", Hungama Digital Network
@@ -216,15 +214,13 @@ https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdn
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX HD (Backup icc)
-http://10.16.100.204:8080/tv204/setmax_hd720.m3u8
+http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
 http://103.205.133.14/hls/zeecinema.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE ACTION
 http://103.205.133.14/hls/zeeaction.m3u8 
-#EXTINF:-1 group-title="Hindi Movies", Zee Classic
-https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", STAR GOLD
@@ -245,8 +241,6 @@ http://42.98.109.147:9981/stream/channelid/1969735173
 http://42.98.109.147:9981/stream/channelid/2098374654
 #EXTINF:-1 group-title="Hindi Movies", WOW CINEMA ONE 
 http://103.205.133.19/hls/wowcinema.m3u8
-#EXTINF:-1 group-title="Hindi Movies",Sony WAH
-http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4u Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4U Plus (Movies)
@@ -352,7 +346,7 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 #EXTINF:-1 group-title="Sports", PTV SPORTS 
 http://43.251.86.2:8080/hls/channel_2.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS 1
-#EXTINF:-1,IN: STAR SPORTS 1 http://103.205.133.19/hls/starsports1.m3u8
+http://103.205.133.19/hls/starsports1.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS 1 Hindi
 http://42.98.109.147:9981/stream/channelid/2108154942
 #EXTINF:-1 group-title="Sports", STAR SPORTS 1 HD 
