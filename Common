@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",Gazi Tv
-https://edge01.net/live/gazi_tv/chunks.m3u8
+http://ddn.amrbd.com:8081/live/gazi-bd/playlist.m3u8
 #EXTINF:-1  group-title="Bangla",Maasranga
 http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1  group-title="Bangla", Asian TV
@@ -42,7 +42,7 @@ http://103.205.133.14/hls/jamunatv.m3u8
 #EXTINF:-1 group-title="Bangla",NTV
 http://103.205.133.14/hls/ntv.m3u8
 #EXTINF:-1 group-title="Bangla",Nagorik TV
-http://tv-cdn.ihub.live:8080/NagorikTV/tracks-v1a1/mono.m3u8
+http://ddn.amrbd.com:8081/live/nagorik/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",RTV
 http://103.205.133.14/hls/rtv.m3u8
 #EXTINF:-1 group-title="Bangla",SA TV
@@ -94,7 +94,7 @@ http://bolly360.xyz/zee.php?c=ztvme
 #EXTINF:-1 group-title="Hindi Entertainment",Zee TV (Backup)
 http://103.205.133.14/hls/zeetvhd.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Colors HD
-http://103.205.133.14/hls/colors.m3u8
+http://185.246.209.251:6061/colors/index.m3u8?token=test
 #EXTINF:-1 group-title="Hindi Entertainment",Star Plus HD
 http://tv-cdn.ihub.live:8080/StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Plus ( Backup Server)
@@ -105,12 +105,14 @@ http://42.98.109.147:9981/stream/channelid/1344182085
  http://45.120.188.76:8080/0.ts
 #EXTINF:-1 group-title="Hindi Entertainment",  SONY TV HD 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Hindi Entertainment",  SONY TV 
+http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Entertainment", Sony SAB SD (Backup Server)
 http://103.205.133.14/hls/sonysab.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", SONY SAB SD (Backup Server 2)
-http://42.98.109.147:9981/stream/channelid/1365431141
+http://103.205.133.14/hls/sonysab.m3u8
 http://103.205.133.19/hls/sonysab.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", A Plus
 http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
@@ -209,10 +211,10 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX (Backup) 
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Hindi Movies", Sony MAX HD 
+http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 group-title="Hindi Movies", Sony MAX HD (Backup icc)
-http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
 http://103.205.133.14/hls/zeecinema.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
