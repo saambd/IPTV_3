@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",Gazi Tv
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+https://edge01.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1  group-title="Bangla",Maasranga
 http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1  group-title="Bangla", Asian TV
@@ -8,17 +8,17 @@ http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/bdd0b7ba1a.m3u8
 #EXTINF:-1 group-title="Bangla",ATN Bangla
 http://103.205.133.14/hls/atnbangla.m3u8
 #EXTINF:-1 group-title="Bangla", ATN News
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/cca5ed3d6b.m3u8
+http://tv-cdn.ihub.live:8080/ATNNews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Banglavision TV
 http://103.205.133.14/hls/banglavision.m3u8
 #EXTINF:-1 group-title="Bangla",Boishakhi TV
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/5aaed25c2e.m3u8
+http://tv-cdn.ihub.live:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",BTV World
 http://103.205.133.14/hls/btvworld.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 9
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/e327dc79d1.m3u8
+http://tv-cdn.ihub.live:8080/Channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 24
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/f5c1f1ded4.m3u8
+http://tv-cdn.ihub.live:8080/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Channel I
 http://tv-cdn.ihub.live:8080/ChannelI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",DBC News
@@ -36,19 +36,19 @@ https://anytv.gov.gdn/ekattor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushey TV
 http://tv-cdn.ihub.live:8080/EkusheyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Independent TV
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/23d6a8d8d7.m3u8
+https://anytv.gov.gdn/independent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Jamuna TV
 http://103.205.133.14/hls/jamunatv.m3u8
 #EXTINF:-1 group-title="Bangla",NTV
 http://103.205.133.14/hls/ntv.m3u8
 #EXTINF:-1 group-title="Bangla",Nagorik TV
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/0fb512d13d.m3u8
+http://tv-cdn.ihub.live:8080/NagorikTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",RTV
 http://103.205.133.14/hls/rtv.m3u8
-#EXTINF:-1 tvg-logo="http://www.simpleimageresizer.com/_uploads/photos/a851d150/photo-1489129963.png"  group-title="Bangla",SA TV
+#EXTINF:-1 group-title="Bangla",SA TV
 http://103.205.133.14/hls/satv.m3u8
 #EXTINF:-1 group-title="Bangla",Somoy News
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/42386b79e2.m3u8
+http://tv-cdn.ihub.live:8080/SomoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",News 24
 http://103.205.133.14/hls/news24.m3u8
 #EXTINF:-1 group-title="Bangla", Gaan Bangla
@@ -69,8 +69,6 @@ http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla", Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Colors Bangla
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/9a23f67c75.m3u8
 #EXTINF:-1 group-title="Bangla",Star Jalsha HD
 http://tv-cdn.ihub.live:8080/StarJalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Star Jalsha Movies HD
@@ -83,8 +81,6 @@ http://175.41.46.16:8081/hls/6.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 group-title="Bangla", SONY AATH  
 http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
-#EXTINF:-1 group-title="Bangla", SONY AATH (Backup)
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/5a373a3cef.m3u8
 #EXTINF:-1 group-title="Bangla", SONY AATH (icc_backup)
 http://10.16.100.202:8080/tvs202/sony_8.m3u8
 
@@ -127,13 +123,13 @@ http://42.98.109.147:9981/stream/channelid/1255188543
 |||||||||||||||||||||||||||International News|||||||||||||||||||||
 
 #EXTINF:-1 group-title="International News", BBC World News
-https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
+http://220.158.149.28:8180/TV00000000000000000112@HHZT
 #EXTINF:-1 group-title="International News", CNN
-https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+http://84.22.33.254/unicast.cnn/video.m3u8
 #EXTINF:-1 group-title="International News", Al Jazeera
-https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="International News", DW
-https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-1 group-title="International News",NDTV 24X7 
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 group-title="International News",CNA 
@@ -144,7 +140,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 |||||||||||||||||||||Knowledge & Lifestyle||||||||||||||||||
 
 #EXTINF:-1 group-title="Knowledge & Lifestyle", Nat Geo 
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/index.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:-1 group-title="Knowledge & Lifestyle", Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle", NAT GEO WILD
@@ -162,7 +158,7 @@ https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle",History TV
 http://42.98.109.147:9981/stream/channelid/828611519
 #EXTINF:-1 group-title="Knowledge & Lifestyle",TLC HD
-https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
 
 
 
@@ -264,7 +260,7 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 group-title="English Movies", Movies Now (Backup)
 http://stream-7b694ce7e.nmbs.top/m3u/Uk/040da20ef3.m3u8
 #EXTINF:-1 group-title="English Movies", HBO HD
-http://stream-7b694ce7e.nmbs.top/m3u/Uk/90265c712c.m3u8
+https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="English Movies",HBO (Backup)
 http://42.98.109.147:9981/stream/channelid/1935563531
 #EXTINF:-1 group-title="English Movies",HBO 2 HD
