@@ -34,27 +34,27 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Ekattor TV
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushey TV
-http://tv-cdn.ihub.live:8080/EkusheyTv/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Independent TV
-https://anytv.gov.gdn/independent/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Jamuna TV
 http://103.205.133.14/hls/jamunatv.m3u8
 #EXTINF:-1 group-title="Bangla",NTV
 http://103.205.133.14/hls/ntv.m3u8
 #EXTINF:-1 group-title="Bangla",Nagorik TV
-http://ddn.amrbd.com:8081/live/nagorik/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",RTV
 http://103.205.133.14/hls/rtv.m3u8
 #EXTINF:-1 group-title="Bangla",SA TV
 http://103.205.133.14/hls/satv.m3u8
 #EXTINF:-1 group-title="Bangla",Somoy News
-http://tv-cdn.ihub.live:8080/SomoyTv/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",News 24
 http://103.205.133.14/hls/news24.m3u8
 #EXTINF:-1 group-title="Bangla", Gaan Bangla
 http://103.205.133.14/hls/gaanbangla.m3u8
 #EXTINF:-1 group-title="Bangla", Mohona TV
-http://tv-cdn.ihub.live:8080/MohonaTV/tracks-v1a1/mono.m3u8
+http://10.16.100.203:8082/bangla/mohonatv.m3u8
 #EXTINF:-1 group-title="Bangla", Bangla Tv (icc)
 http://10.16.100.203:8082/bangla/banglatv_hd.m3u8
 #EXTINF:-1 group-title="Bangla", Bijoy Tv (icc)
@@ -70,13 +70,17 @@ http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 #EXTINF:-1 group-title="Bangla", Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 group-title="Bangla",Star Jalsha HD
-http://tv-cdn.ihub.live:8080/StarJalshaHD/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Star Jalsha Movies HD
 http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 group-title="Bangla",Star Jalsha Movies
-http://ddn.amrbd.com:8081/live/jalshamovies/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Zee Bangla
 http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 group-title="Bangla",COLORS BANGLA
+https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+#EXTINF:-1 group-title="Bangla",COLORS BANGLA HD
+https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",ABP Ananda 
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 group-title="Bangla", SONY AATH  
@@ -93,10 +97,12 @@ http://10.16.100.202:8080/tvs202/sony_8.m3u8
 http://bolly360.xyz/zee.php?c=ztvme
 #EXTINF:-1 group-title="Hindi Entertainment",Zee TV (Backup)
 http://103.205.133.14/hls/zeetvhd.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",Colors HD
+#EXTINF:-1 group-title="Hindi Entertainment",COLORS
+https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment",Colors HD 
 http://185.246.209.251:6061/colors/index.m3u8?token=test
 #EXTINF:-1 group-title="Hindi Entertainment",Star Plus HD
-http://tv-cdn.ihub.live:8080/StarPlusHD/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Plus ( Backup Server)
 http://42.98.109.147:9981/stream/channelid/1463953132
 #EXTINF:-1 group-title="Hindi Entertainment",Star Bharat HS
@@ -105,19 +111,16 @@ http://42.98.109.147:9981/stream/channelid/1344182085
  http://45.120.188.76:8080/0.ts
 #EXTINF:-1 group-title="Hindi Entertainment",  SONY TV HD 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 group-title="Hindi Entertainment",  SONY TV 
+#EXTINF:-1 group-title="Hindi Entertainment",  SONY TV  
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Entertainment", Sony SAB SD (Backup Server)
 http://103.205.133.14/hls/sonysab.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment", SONY SAB SD (Backup Server 2)
-http://103.205.133.14/hls/sonysab.m3u8
-http://103.205.133.19/hls/sonysab.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment", A Plus
-http://stream.tapmad.com:1935/pitvlive2/aplus3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Hindi Entertainment", HUM TV HD
 http://95.211.211.168/live/humtv0066/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,HUM MASALA
+https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star World
 http://42.98.109.147:9981/stream/channelid/1255188543
 
@@ -161,6 +164,8 @@ https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 http://42.98.109.147:9981/stream/channelid/828611519
 #EXTINF:-1 group-title="Knowledge & Lifestyle",TLC HD
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
+#EXTINF:-1,FOX LIFE
+https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
 
 
@@ -216,7 +221,7 @@ http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
-http://103.205.133.14/hls/zeecinema.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE ACTION
@@ -228,7 +233,7 @@ http://42.98.109.147:9981/stream/channelid/1094486655
 #EXTINF:-1 group-title="Hindi Movies", STAR GOLD (Backup)
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold HD 
-http://103.115.159.37:8080/stargold/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Biskop
