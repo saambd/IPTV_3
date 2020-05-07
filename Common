@@ -94,23 +94,23 @@ http://10.16.100.202:8080/tvs202/sony_8.m3u8
 ||||||||||||||||||||||||Hindi Entertainment||||||||||||||||||||
 
 #EXTINF:-1 group-title="Hindi Entertainment", ZEE TV HD 
-http://bolly360.xyz/zee.php?c=ztvme
-#EXTINF:-1 group-title="Hindi Entertainment",Zee TV (Backup)
-http://103.205.133.14/hls/zeetvhd.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",COLORS
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Colors HD 
 http://185.246.209.251:6061/colors/index.m3u8?token=test
 #EXTINF:-1 group-title="Hindi Entertainment",Star Plus HD
 https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",Star Plus ( Backup Server)
-http://42.98.109.147:9981/stream/channelid/1463953132
+#EXTINF:-1 group-title="Hindi Entertainment",Star Plus HD
+http://104.218.60.216:83/dircharlie/90393092/374129
 #EXTINF:-1 group-title="Hindi Entertainment",Star Bharat HS
 http://42.98.109.147:9981/stream/channelid/1344182085
 #EXTINF:-1 group-title="Hindi Entertainment",&TV HD
- http://45.120.188.76:8080/0.ts
+http://42.98.109.147:9981/stream/channelid/387732398
 #EXTINF:-1 group-title="Hindi Entertainment",  SONY TV HD 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 group-title="Hindi Entertainment",  SONY TV HD (Backup)
+http://185.246.209.251:6061/sony/index.m3u8?token=test
 #EXTINF:-1 group-title="Hindi Entertainment",  SONY TV  
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", SONY SAB HD 
@@ -219,7 +219,7 @@ https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdn
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX HD 
 http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+http://104.218.60.216:83/dircharlie/90393092/374126
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
@@ -288,6 +288,14 @@ http://51.52.156.22:8888/http/009
 http://103.205.133.14/hls/sonypix.m3u8
 #EXTINF:-1 group-title="English Movies", SONY PIX HD 
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
+#EXTINF:-1 group-title="English Movies",24/7 Animated Movies
+http://104.218.60.216:83/dircharlie/90393092/382035
+#EXTINF:-1 group-title="English Movies",24/7 Disney Movies
+http://104.218.60.216:83/dircharlie/90393092/382365
+#EXTINF:-1 group-title="English Movies",24/7 Disney Movies 2
+http://104.218.60.216:83/dircharlie/90393092/382033
+#EXTINF:-1 group-title="English Movies",24/7 Horror Movies
+http://104.218.60.216:83/dircharlie/90393092/382039
 #EXTINF:-1 group-title="English Movies", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 #EXTINF:-1 group-title="English Movies", MBC 2
