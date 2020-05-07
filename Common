@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",Gazi Tv
-http://ddn.amrbd.com:8081/live/gazi-bd/playlist.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1  group-title="Bangla",Maasranga
 http://175.41.46.16:8081/hls/10.m3u8
 #EXTINF:-1  group-title="Bangla", Asian TV
-http://stream-7b694ce7e.nmbs.top/m3u/Bangladesh/bdd0b7ba1a.m3u8
+https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",ATN Bangla
 http://103.205.133.14/hls/atnbangla.m3u8
 #EXTINF:-1 group-title="Bangla", ATN News
-http://tv-cdn.ihub.live:8080/ATNNews/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Banglavision TV
 http://103.205.133.14/hls/banglavision.m3u8
 #EXTINF:-1 group-title="Bangla",Boishakhi TV
-http://tv-cdn.ihub.live:8080/BoishakhiTV/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",BTV World
 http://103.205.133.14/hls/btvworld.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 9
-http://tv-cdn.ihub.live:8080/Channel9/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 24
-http://tv-cdn.ihub.live:8080/Channel24/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Channel I
-http://tv-cdn.ihub.live:8080/ChannelI/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",DBC News
 http://103.205.133.14/hls/dbcnews.m3u8
 #EXTINF:-1 group-title="Bangla",Deepto TV
@@ -29,10 +29,10 @@ http://103.205.133.14/hls/deeptotv.m3u8
 http://103.205.133.14/hls/mytv.m3u8
 #EXTINF:-1 group-title="Bangla",Desh TV
 http://103.205.133.14/hls/deshtv.m3u8
-#EXTINF:-1 group-title="Bangla",Duronto TV (icc)
-http://10.16.100.207:8082/sports/duronto_HD.m3u8 
+#EXTINF:-1 group-title="Bangla",Duronto TV
+https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Ekattor TV
-https://anytv.gov.gdn/ekattor/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Ekushey TV
 http://tv-cdn.ihub.live:8080/EkusheyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Independent TV
