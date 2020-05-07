@@ -288,14 +288,6 @@ http://51.52.156.22:8888/http/009
 http://103.205.133.14/hls/sonypix.m3u8
 #EXTINF:-1 group-title="English Movies", SONY PIX HD 
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
-#EXTINF:-1 group-title="English Movies",24/7 Animated Movies
-http://104.218.60.216:83/dircharlie/90393092/382035
-#EXTINF:-1 group-title="English Movies",24/7 Disney Movies
-http://104.218.60.216:83/dircharlie/90393092/382365
-#EXTINF:-1 group-title="English Movies",24/7 Disney Movies 2
-http://104.218.60.216:83/dircharlie/90393092/382033
-#EXTINF:-1 group-title="English Movies",24/7 Horror Movies
-http://104.218.60.216:83/dircharlie/90393092/382039
 #EXTINF:-1 group-title="English Movies", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 #EXTINF:-1 group-title="English Movies", MBC 2
