@@ -156,6 +156,8 @@ http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle",Animal Planet HD Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTINF:-1 group-title="Knowledge & Lifestyle", SONY BBC EARTH HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Knowledge & Lifestyle",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle",History TV
@@ -216,6 +218,10 @@ http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Movies", Sony MAX HD 
 http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1 group-title="Hindi Movies", Manoranjan 
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 group-title="Hindi Movies", MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
@@ -232,6 +238,10 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1 group-title="Hindi Movies", N TV Huston MOVIES
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1 group-title="Hindi Movies", Anjan TV
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w7325243_b1580000.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Biskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 group-title="Hindi Movies", &Pictures
@@ -320,7 +330,7 @@ http://42.98.109.147:9981/stream/channelid/1948507640
 #EXTINF:-1 group-title="Cartoon ", Disney XD (icc)
 http://10.16.100.202:8080/tvs202/disneyxd.m3u8
 #EXTINF:-1 group-title="Cartoon ", Discovery Kids
-https://tv4.chang55.com/live2/tv4ch21.stream/chunks.m3u8
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1 group-title="Cartoon ", Discovery Kids (Backup)
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1 group-title="Cartoon ", CARTOON NETWORK Hindi
