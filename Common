@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla",Gazi Tv
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1  group-title="Bangla",Maasranga
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1  group-title="Bangla", Asian TV
@@ -221,13 +221,13 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE ACTION
-http://103.205.133.14/hls/zeeaction.m3u8 
+http://42.98.109.147:9981/stream/channelid/141159951 
 #EXTINF:-1 group-title="Hindi Movies", Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", STAR GOLD
 http://42.98.109.147:9981/stream/channelid/1094486655
 #EXTINF:-1 group-title="Hindi Movies", STAR GOLD (Backup)
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold HD 
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Aflam
@@ -258,14 +258,14 @@ http://175.41.46.16:8081/hls/2.m3u8
 http://42.98.109.147:9981/stream/channelid/810810680
 #EXTINF:-1 group-title="English Movies",MBC Max HD
 http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/46
+#EXTINF:-1 group-title="English Movies", MBC 2HD
+http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/45
+#EXTINF:-1 group-title="English Movies", MBC Action HD
+http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/69
 #EXTINF:-1 group-title="English Movies", Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 group-title="English Movies", Movies Now (Backup)
 http://stream-7b694ce7e.nmbs.top/m3u/Uk/040da20ef3.m3u8
-#EXTINF:-1 group-title="English Movies", MBC Action HD
-http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/69
-#EXTINF:-1 group-title="English Movies", MBC Max HD
-http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/46
 #EXTINF:-1 group-title="English Movies", HBO HD
 https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="English Movies",HBO (Backup)
@@ -284,10 +284,10 @@ https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="English Movies", Sony Movies
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 group-title="English Movies", Sony Pix
-http://103.205.133.14/hls/sonypix.m3u8
-#EXTINF:-1 group-title="English Movies", SONY PIX HD 
+#EXTINF:-1 group-title="English Movies", SONY PIX HD (Slow)
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
+#EXTINF:-1 group-title="English Movies", SONY PIX HD (Slow_Backup)
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="English Movies", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 #EXTINF:-1 group-title="English Movies", MBC 2
