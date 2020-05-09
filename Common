@@ -238,6 +238,8 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 http://42.98.109.147:9981/stream/channelid/1969735173
 #EXTINF:-1 group-title="Hindi Movies",  UTV MOVIES 
 http://42.98.109.147:9981/stream/channelid/2098374654
+#EXTINF:-1 group-title="Hindi Movies", Sony WAH
+http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4u Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies", B4U Plus (Movies)
@@ -360,6 +362,8 @@ http://42.98.109.147:9981/stream/channelid/2108154942
 http://42.98.109.147:9981/stream/channelid/215460452
 #EXTINF:-1 group-title="Sports", STAR SPORTS 2
 #EXTINF:-1,IN: STAR SPORTS 1 http://43.251.86.2:8080/hls/channel_3.m3u8
+#EXTINF:-1 group-title="Sports",GEO SPORTS
+http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 1
 http://stream-7b694ce7e.nmbs.top/m3u/Sports/0e7b5ead10.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 2 
