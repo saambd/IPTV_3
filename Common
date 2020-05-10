@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangla",Gazi Tv
-http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1  group-title="Bangla",Maasranga
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1  group-title="Bangla", Asian TV
@@ -27,6 +25,8 @@ https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:-1 group-title="Bangla",Gazi Tv
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Duronto TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Ekattor TV
@@ -351,7 +351,12 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 ||||||||||||||||||||||||| Sports ||||||||||||||||||||||
 
 
-
+#EXTINF:-1 group-title="Sports",GEO SPORTS
+http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", PTV SPORTS 
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1 group-title="Sports", PTV SPORTS 
+http://43.251.86.2:8080/hls/channel_2.m3u8
 #EXTINF:-1 group-title="Sports", SONY TEN 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
 #EXTINF:-1 group-title="Sports", SONY TEN 2 
@@ -360,10 +365,6 @@ https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hd
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 group-title="Sports", SONY SIX HD 
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne 
-#EXTINF:-1 group-title="Sports", PTV SPORTS 
-http://43.251.86.2:8080/hls/channel_2.m3u8
-#EXTINF:-1 group-title="Sports", PTV SPORTS 
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS 1
 http://103.205.133.19/hls/starsports1.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS 1 Hindi
@@ -372,8 +373,6 @@ http://42.98.109.147:9981/stream/channelid/2108154942
 http://42.98.109.147:9981/stream/channelid/215460452
 #EXTINF:-1 group-title="Sports", STAR SPORTS 2
 #EXTINF:-1,IN: STAR SPORTS 1 http://43.251.86.2:8080/hls/channel_3.m3u8
-#EXTINF:-1 group-title="Sports",GEO SPORTS
-http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 1
 http://stream-7b694ce7e.nmbs.top/m3u/Sports/0e7b5ead10.m3u8
 #EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 2 
@@ -382,22 +381,10 @@ http://stream-7b694ce7e.nmbs.top/m3u/Sports/61acd0479d.m3u8
 https://bracnet.iptv.jadoodigital.com/live
 #EXTINF:-1 group-title="Sports", Bein Sports
 http://42.98.109.147:9981/stream/channelid/1270056858
-#EXTINF:-1 group-title="Sports", Bein Sports 1
-http://42.98.109.147:9981/stream/channelid/1880674381
-#EXTINF:-1 group-title="Sports", Bein Sports 10
+#EXTINF:-1 group-title="Sports", Olympic Channel
 http://42.98.109.147:9981/stream/channelid/151983205
-#EXTINF:-1 group-title="Sports", Bein Sports 11
-http://42.98.109.147:9981/stream/channelid/42641201
 #EXTINF:-1 group-title="Sports", Bein Sports 2
 http://42.98.109.147:9981/stream/channelid/1218047888
-#EXTINF:-1 group-title="Sports", Bein Sports 4
-http://42.98.109.147:9981/stream/channelid/371552797
-#EXTINF:-1 group-title="Sports", Bein Sports 5
-http://42.98.109.147:9981/stream/channelid/1867525775
-#EXTINF:-1 group-title="Sports", Bein Sports 6
-http://42.98.109.147:9981/stream/channelid/169743099
-#EXTINF:-1 group-title="Sports", Bein Sports 7
-http://42.98.109.147:9981/stream/channelid/1364029608
 #EXTINF:-1 group-title="Sports", Bein Sports 8
 http://42.98.109.147:9981/stream/channelid/1027178937
 #EXTINF:-1 group-title="Sports", Bein Sports 9
@@ -408,7 +395,6 @@ http://42.98.109.147:9981/stream/channelid/1821842711
 http://42.98.109.147:9981/stream/channelid/1917442074
 #EXTINF:-1 group-title="Sports",FOX SPORTS 3 [Server 2]
 http://42.98.109.147:9981/stream/channelid/946453276
-#EXTINF:-1 group-title="Sports",Fox Sports HD
-http://42.98.109.147:9981/stream/channelid/1175354037
+
 
 
