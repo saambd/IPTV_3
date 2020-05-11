@@ -116,8 +116,6 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 http://103.205.133.42:1935/local/ntv_720/index.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",  SONY TV  
 http://103.205.133.42:1935/local/sony_entertainment_720/index.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",  SONY TV HD 
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 group-title="Hindi Entertainment",  SONY TV HD (Backup)
 http://185.246.209.251:6061/sony/index.m3u8?token=test
 #EXTINF:-1 group-title="Hindi Entertainment", Sony SAB SD 
@@ -152,7 +150,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 |||||||||||||||||||||Knowledge & Lifestyle||||||||||||||||||
 
 #EXTINF:-1 group-title="Knowledge & Lifestyle", Nat Geo 
-http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle", Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
 #EXTINF:-1 group-title="Knowledge & Lifestyle", NAT GEO WILD
