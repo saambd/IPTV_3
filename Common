@@ -236,7 +236,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 group-title="Hindi Movies", MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+http://103.205.133.42:1935/local/zee_cinema_720/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE CINEMA HD 
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi Movies", ZEE ACTION
