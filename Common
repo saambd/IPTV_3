@@ -248,7 +248,7 @@ http://137.59.155.253:8088/hls/Star_Gold.m3u8
 #EXTINF:-1 group-title="Hindi Movies", STAR GOLD (Backup)
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Star Gold HD 
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Bflix Movies
 http://103.205.133.42:1935/local/bflix_720/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies", Zee Aflam
