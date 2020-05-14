@@ -189,7 +189,7 @@ https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1 group-title="Music", 9XM
 http://103.205.133.42:1935/local/9xm_720/index.m3u8
 #EXTINF:-1 group-title="Music",Zoom
-https://edge01.iptv.digijadoo.net/live/zoom/playlist.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8
 #EXTINF:-1 group-title="Music",Mastiii
 http://103.68.116.50/live/feed1011/index.m3u8
 #EXTINF:-1 group-title="Music", B4U Music
