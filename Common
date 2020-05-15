@@ -186,27 +186,27 @@ https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
 ||||||||||||||||||||||||||||| MUSIC |||||||||||||||||||||||||
 
-#EXTINF:-1 group-title="Music", 9XM
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music", 9XM
 http://103.205.133.42:1935/local/9xm_720/index.m3u8
-#EXTINF:-1 group-title="Music",Zoom
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OckuFU2.png"  group-title="Music",Zoom
 http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8
-#EXTINF:-1 group-title="Music",Mastiii
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea33543f260e0df6b.png" group-title="Music",Mastiii
 http://103.68.116.50/live/feed1011/index.m3u8
-#EXTINF:-1 group-title="Music", B4U Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rLo1hK.png" group-title="Music", B4U Music
 https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
-#EXTINF:-1 group-title="Music", MUSIC INDIA
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagea5b4033cf13f8b8a.png" group-title="Music", MUSIC INDIA
 http://103.205.133.42:1935/local/music_india_720/index.m3u8
-#EXTINF:-1 group-title="Music", Hungama Digital Network
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1z8PmG7/maxresdefault.jpg" group-title="Music", Hungama Digital Network
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-#EXTINF:-1 group-title="Music", Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music", Sangeet Bangla
 http://103.205.133.42:1935/local/sangeet_bangla_720/index.m3u8
-#EXTINF:-1 group-title="Music", Shemaroo Hindi 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XVxw5QN/53257-1-home-big.jpg" group-title="Music", Shemaroo Hindi 
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 group-title="Music",Kadak Hitz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gk8bCGY/97146-B4-UKadak.jpg" group-title="Music",Kadak Hitz
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Music",zing
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Music",zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1 group-title="Music",B4U Plus SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KswjV76/download.png"  group-title="Music",B4U Plus SD
 http://ultraplay.org:25461/998501017/yhd634@FGGH/56507
 #EXTINF:-1 group-title="Music", Dhamaal
 http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
