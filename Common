@@ -3,29 +3,29 @@
 https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png"  group-title="Bangla",ATN Bangla
 https://triangle.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 group-title="Bangla", ATN News
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png"  group-title="Bangla", ATN News
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Banglavision TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangla",Banglavision TV
 https://triangle.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Boishakhi TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image702275ef56e4ef86.png" group-title="Bangla",Boishakhi TV
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",BTV World
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Bangla",BTV World
 http://103.205.133.42:1935/local/btv_world_720/index.m3u8
-#EXTINF:-1 group-title="Bangla",BTV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="Bangla",BTV
 http://103.205.133.42:1935/local/btv_national_720/index.m3u8
-#EXTINF:-1 group-title="Bangla",Channel 9
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageef52edb088b56d2f.png" group-title="Bangla",Channel 9
 https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Channel 24
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="Bangla",Channel 24
 http://103.205.133.42:1935/local/channel_24_720/index.m3u8
-#EXTINF:-1 group-title="Bangla",Channel I
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="Bangla",Channel I
 https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",DBC News
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangla",DBC News
 http://103.205.133.42:1935/local/dbc_news_720/index.m3u8
-#EXTINF:-1 group-title="Bangla",Deepto TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangla",Deepto TV
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Desh TV
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="Bangla",Desh TV
 http://103.205.133.42:1935/local/desh_tv_720/index.m3u8
-#EXTINF:-1 group-title="Bangla",Gazi Tv
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png"  group-title="Bangla",Gazi Tv
 http://fr-c.movply.stream/hls/gazi-tv.m3u8
 #EXTINF:-1 group-title="Bangla",Duronto TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
