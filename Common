@@ -229,13 +229,13 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies",SONY MAX 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XugRMCOVr-c/hqdefault.jpg" group-title="Hindi Movies",SONY MAX 
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony MAX (Backup) 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XugRMCOVr-c/hqdefault.jpg" group-title="Hindi Movies", Sony MAX (Backup) 
 https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony MAX HD 
 http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
-#EXTINF:-1 group-title="Hindi Movies", Sony MAX HD (Backup)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony MAX HD (Backup)
 http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qe37MM0.png"  group-title="Hindi Movies", Manoranjan 
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
@@ -283,7 +283,7 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
 ||||||||||||||||||||||||||||||| English Movies |||||||||||||||||||||||
 
-#EXTINF:-1 group-title="English Movies", MNX 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D8BPQtn/h7j6-Rn95-400x400.jpg" group-title="English Movies", MNX 
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
 #EXTINF:-1 group-title="English Movies", Star Movies HD Int
 http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/47
