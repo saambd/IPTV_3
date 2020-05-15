@@ -208,17 +208,17 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KswjV76/download.png"  group-title="Music",B4U Plus SD
 http://ultraplay.org:25461/998501017/yhd634@FGGH/56507
-#EXTINF:-1 group-title="Music", Dhamaal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8NsfgRs/images.png" group-title="Music", Dhamaal
 http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
-#EXTINF:-1 group-title="Music", Dil Se 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4LpvkN/Hungama-TV.jpg" group-title="Music", Dil Se 
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-#EXTINF:-1 group-title="Music", 9XO 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S6SWFJw/50287-9xo.jpg" group-title="Music", 9XO 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
-#EXTINF:-1 group-title="Music", Box Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jrJdKTy/Box-Hits-1.jpg" group-title="Music", Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 group-title="Music", Only Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co/19jFZHb/download.png" group-title="Music", Only Music
 http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
-#EXTINF:-1 group-title="Music", MH1 Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFG7hGd/download.jpg" group-title="Music", MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 
 
