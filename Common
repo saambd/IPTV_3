@@ -131,55 +131,55 @@ http://95.211.211.168/live/humtv0066/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZYLQq6/masalatv-logo.jpg" group-title="Hindi Entertainment",HUM MASALA
 https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gThqK4/1200px-STAR-World-svg.png" group-title="Hindi Entertainment",Star World
-http://42.98.109.147:9981/stream/channelid/1255188543
+https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
 
 |||||||||||||||||||||||||||International News|||||||||||||||||||||
 
-#EXTINF:-1 group-title="International News", BBC World News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="International News", BBC World News
 http://220.158.149.28:8180/TV00000000000000000112@HHZT
-#EXTINF:-1 group-title="International News", CNN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="International News", CNN
 http://84.22.33.254/unicast.cnn/video.m3u8
-#EXTINF:-1 group-title="International News", Al Jazeera
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="International News", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="International News", DW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="International News", DW
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-1 group-title="International News",NDTV 24X7 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43lszhG.png"  group-title="International News",NDTV 24X7 
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="International News",CNA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RBByaXv.png" group-title="International News",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
 
 |||||||||||||||||||||Knowledge & Lifestyle||||||||||||||||||
 
-#EXTINF:-1 group-title="Knowledge & Lifestyle", Nat Geo 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4duWidg.png"  group-title="Knowledge & Lifestyle", Nat Geo 
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle", Nat Geo People
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageab5309baa10a397c.png" group-title="Knowledge & Lifestyle", Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle", NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="Knowledge & Lifestyle", NAT GEO WILD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/index.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle",Discovery HD
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Knowledge & Lifestyle",Discovery HD
 http://103.205.133.42:1935/local/discovery_hd_720/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle", Discovery SCIENCE Hindi
+#EXTINF:-1 tvg-logo="http://static.epg.best/au/DiscoveryScience.au.png"  group-title="Knowledge & Lifestyle", Discovery SCIENCE Hindi
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle", Discovery Turbo
+#EXTINF:-1 tvg-logo="http://static.epg.best/au/DiscoveryTurbo.au.png" group-title="Knowledge & Lifestyle", Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle",Animal Planet HD Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Knowledge & Lifestyle",Animal Planet HD Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="ICC",Animal Planet HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="Knowledge & Lifestyle",Animal Planet HD
 http://103.205.133.42:1935/local/animal_planet_hd_720/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle", SONY BBC EARTH HD (icc)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rrgu5uB.png" group-title="Knowledge & Lifestyle", SONY BBC EARTH HD (icc)
 http://103.205.133.42:1935/local/sony_bbc_earth_hd_720/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle", SONY BBC EARTH HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rrgu5uB.png" group-title="Knowledge & Lifestyle", SONY BBC EARTH HD
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 group-title="Knowledge & Lifestyle",FOX Life
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="Knowledge & Lifestyle",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle",History TV
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image029be7097122b523.png" group-title="Knowledge & Lifestyle",History TV
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle",TLC HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/TLC.de.png" group-title="Knowledge & Lifestyle",TLC HD
 http://103.205.133.42:1935/local/tlc_hd_720/chunklist.m3u8
-#EXTINF:-1 group-title="Knowledge & Lifestyle",FOX LIFE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="Knowledge & Lifestyle",FOX LIFE
 https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
 
