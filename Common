@@ -37,35 +37,35 @@ https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 http://103.205.133.42:1935/local/independent_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangla",Jamuna TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",NTV
+#EXTINF:-1 vg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangla",NTV
 https://triangle.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",Nagorik TV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png"  group-title="Bangla",Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",RTV
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangla",RTV
 https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",SA TV
-#EXTINF:-1  group-title="Bangla",Maasranga (Backup)
-http://175.41.46.16:8081/hls/10.m3u8
-#EXTINF:-1  group-title="Bangla",Maasranga
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png"  group-title="Bangla",SA TV
 https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
-#EXTINF:-1 group-title="Bangla", My TV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangla",Maasranga
+https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangla",Maasranga (Backup)
+http://175.41.46.16:8081/hls/10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangla", My TV
 http://103.205.133.42:1935/local/my_tv_720/index.m3u8
-#EXTINF:-1 group-title="Bangla",Somoy News
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png"  group-title="Bangla",Somoy News
 http://103.205.133.42:1935/local/somoy_tv_720/index.m3u8
-#EXTINF:-1 group-title="Bangla",News 24
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangla",News 24
 https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-#EXTINF:-1 group-title="Bangla", Gaan Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png"  group-title="Bangla", Gaan Bangla
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1 group-title="Bangla", Mohona TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla", Mohona TV
 http://103.205.133.42:1935/local/mohona_tv_720/index.m3u8
-#EXTINF:-1 group-title="Bangla", Bangla Tv 
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangla", Bangla Tv 
 http://103.205.133.42:1935/local/bangla_tv_hd_720/index.m3u8
-#EXTINF:-1 group-title="Bangla", Bijoy Tv (icc)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gwVmRS4/61633720-2460607000650380-7239533123938025472-n.png" group-title="Bangla", Bijoy Tv (icc)
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
-#EXTINF:-1 group-title="Bangla", Peace TV Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KXcWS1/unnamed.png"group-title="Bangla", Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 group-title="Bangla", Iqra Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sbtY0d4/Iqra-Bangla.png" group-title="Bangla", Iqra Bangla
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
 #EXTINF:-1 group-title="Bangla",Ananda TV
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
