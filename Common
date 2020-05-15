@@ -37,7 +37,7 @@ https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 http://103.205.133.42:1935/local/independent_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangla",Jamuna TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1 vg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangla",NTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8j2SPw3/ntv.png" group-title="Bangla",NTV
 https://triangle.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png"  group-title="Bangla",Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
@@ -77,9 +77,9 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD
 https://triangle.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WJPcHh/925918368s.jpg" group-title="Bangla",Star Jalsha Movies
 http://103.58.73.26/streams/115/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha Movies HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJ8jGKr/Screenshot-1.jpg" group-title="Bangla",Star Jalsha Movies HD
 http://175.41.46.16:8081/hls/4.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Bangla",Zee Bangla
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
