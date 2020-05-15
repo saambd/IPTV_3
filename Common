@@ -67,35 +67,35 @@ http://10.16.100.203:8082/bangla/bijoytv.m3u8
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbtY0d4/Iqra-Bangla.png" group-title="Bangla", Iqra Bangla
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
-#EXTINF:-1 group-title="Bangla",Ananda TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangla",Ananda TV
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla", ATN Islamic TV
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="Bangla", ATN Islamic TV
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla", Madani TV Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/89VjRFk/download.jpg" group-title="Bangla", Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD
 http://175.41.46.16:8081/hls/7.m3u8
-#EXTINF:-1 group-title="Bangla",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD
 https://triangle.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 group-title="Bangla",Star Jalsha Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha Movies
 http://103.58.73.26/streams/115/index.m3u8
-#EXTINF:-1 group-title="Bangla",Star Jalsha Movies HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha Movies HD
 http://175.41.46.16:8081/hls/4.m3u8 
-#EXTINF:-1 group-title="Bangla",Zee Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Bangla",Zee Bangla
 http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
-#EXTINF:-1 group-title="Bangla", Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="Bangla", Zee Bangla Cinema
 http://103.205.133.42:1935/local/zee_bangla_cinema_720/chunklist.m3u8
-#EXTINF:-1 group-title="Bangla",COLORS BANGLA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Bangla",COLORS BANGLA
 https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",COLORS BANGLA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Bangla",COLORS BANGLA HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1 group-title="Bangla",ABP Ananda 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVncEBk.png" group-title="Bangla",ABP Ananda 
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 group-title="Bangla", Akash AATH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="Bangla", Akash AATH
 http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
-#EXTINF:-1 group-title="Bangla", SONY AATH  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Bangla", SONY AATH  
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
-#EXTINF:-1 group-title="Bangla", SONY AATH (BACKUP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Bangla", SONY AATH (BACKUP)
 http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 
 
