@@ -104,33 +104,33 @@ http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 
 ||||||||||||||||||||||||Hindi Entertainment||||||||||||||||||||
 
-#EXTINF:-1 group-title="Hindi Entertainment", ZEE TV HD 
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imageaf68096e14c7fa09.png" group-title="Hindi Entertainment", ZEE TV HD 
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",COLORS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Hindi Entertainment",COLORS
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",Colors HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Hindi Entertainment",Colors HD 
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",Star Plus HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5p9h4Y/download-1.jpg" group-title="Hindi Entertainment",Star Plus HD
 http://185.246.209.251:9090/starplus/index.m3u8?token=test
-#EXTINF:-1 group-title="Hindi Entertainment",Star Plus SD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/48bLFLv/star-plus-logo.jpg" group-title="Hindi Entertainment",Star Plus SD
 https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",Star Bharat HS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Hindi Entertainment",Star Bharat HS
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",&TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tDzyKt3/cropped-Tv.png" group-title="Hindi Entertainment",&TV HD
 http://103.205.133.42:1935/local/ntv_720/index.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",  SONY TV SD
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV SD
 http://103.205.133.42:1935/local/sony_entertainment_720/index.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",  SONY TV HD (Backup)
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV HD (Backup)
 http://185.246.209.251:6061/sony/index.m3u8?token=test
-#EXTINF:-1 group-title="Hindi Entertainment", Sony SAB SD 
+#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Hindi Entertainment", Sony SAB SD 
 http://103.205.133.42:1935/local/sony_sab_720/index.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment", SONY SAB HD 
+#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Hindi Entertainment", SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 group-title="Hindi Entertainment", HUM TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mqrcZkf/download-2.jpg" group-title="Hindi Entertainment", HUM TV HD
 http://95.211.211.168/live/humtv0066/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Hindi Entertainment",HUM MASALA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vZYLQq6/masalatv-logo.jpg" group-title="Hindi Entertainment",HUM MASALA
 https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",Star World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2gThqK4/1200px-STAR-World-svg.png" group-title="Hindi Entertainment",Star World
 http://42.98.109.147:9981/stream/channelid/1255188543
 
 
