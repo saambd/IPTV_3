@@ -285,16 +285,16 @@ http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8BPQtn/h7j6-Rn95-400x400.jpg" group-title="English Movies", MNX 
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD Int
-http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/47
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD India
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies
 http://42.98.109.147:9981/stream/channelid/810810680
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD Int
+http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XykbpJS/900x450-uploads-2020-03-16-b7b0d956ec.jpg" group-title="English Movies",MBC Max HD
 http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/46
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NCnZVpL/hqdefault.jpg" group-title="English Movies", MBC 2 HD
-http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/45
+http://fserver.yellowiptv.com:80/hls/30:34:D2:59:3C:3B/11104
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ybkp7Qz/download.jpg" group-title="English Movies", MBC Action HD
 http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/69
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now
