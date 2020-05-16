@@ -359,17 +359,15 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 http://42.98.109.147:9981/stream/channelid/1948507640
 #EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Disney XD (icc)
 http://10.16.100.202:8080/tvs202/disneyxd.m3u8
-#EXTINF:-1 group-title="Cartoon ", Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Discovery Kids
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:-1 group-title="Cartoon ", Discovery Kids (Backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Discovery Kids (Backup)
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:-1 group-title="Cartoon ", CARTOON NETWORK Hindi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k0bpb63/Slide1-6.jpg" group-title="Cartoon ", CARTOON NETWORK Hindi
 https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Cartoon ", CARTOON NETWORK Hindi (Backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k0bpb63/Slide1-6.jpg"  group-title="Cartoon ", CARTOON NETWORK Hindi (Backup)
 http://42.98.109.147:9981/stream/channelid/1250940728
-#EXTINF:-1 group-title="Cartoon ",ANIMANIACS 24HS
-http://51.81.254.252:25461/2020/2020/15962
-#EXTINF:-1 group-title="Cartoon ",Disney Channel Eng
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVhvNGM/the-disney-channel-logo.jpg" group-title="Cartoon ",Disney Channel Eng
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 
@@ -380,48 +378,47 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 ||||||||||||||||||||||||| Sports ||||||||||||||||||||||
 
-
-#EXTINF:-1 group-title="Sports",GEO SPORTS
-http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports", PTV SPORTS 
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1 group-title="Sports", PTV SPORTS 
-http://43.251.86.2:8080/hls/channel_2.m3u8
-#EXTINF:-1 group-title="Sports", Sony Ten 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports", Sony Ten 1
 http://103.58.73.26/streams/105/index.m3u8
-#EXTINF:-1 group-title="Sports", SONY TEN 3
-http://163.172.85.133:8080/TenS/3/index.m3u8
-#EXTINF:-1 group-title="Sports", SONY TEN 2 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports", SONY TEN 2 
 http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
-#EXTINF:-1 group-title="Sports", SONY TEN 3 HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports", SONY TEN 3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports", SONY TEN 3 HD 
 http://103.205.133.42:1935/local/ten_3_720/index.m3u8
-#EXTINF:-1 group-title="Sports", SONY SIX HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports", SONY SIX HD 
 http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8
-#EXTINF:-1 group-title="Sports", STAR SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rbw0pK3/live-banner.jpg" group-title="Sports",GEO SPORTS
+http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports", PTV SPORTS 
+http://95.211.211.168/live/ptvsports2002/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports", PTV SPORTS 
+http://43.251.86.2:8080/hls/channel_2.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports", STAR SPORTS 1
 http://103.205.133.19/hls/starsports1.m3u8
-#EXTINF:-1 group-title="Sports", STAR SPORTS 1 Hindi
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports", STAR SPORTS 1 Hindi
 http://42.98.109.147:9981/stream/channelid/2108154942
-#EXTINF:-1 group-title="Sports", STAR SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports", STAR SPORTS 2
 http://103.58.73.26/streams/116/index.m3u8
-#EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 2 
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports", STAR SPORTS SELECT 2 
 http://103.58.73.26/streams/114/index.m3u8
-#EXTINF:-1 group-title="Sports", DD Sports
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports", DD Sports
 https://bracnet.iptv.jadoodigital.com/live
-#EXTINF:-1 group-title="Sports", Bein Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q1TQmq9/be-IN-SPORTS.png" group-title="Sports", Bein Sports
 http://42.98.109.147:9981/stream/channelid/1270056858
-#EXTINF:-1 group-title="Sports", Olympic Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6YWvQT/2016-08-22-olympic-channel-thumbnail.jpg" group-title="Sports", Olympic Channel
 http://42.98.109.147:9981/stream/channelid/151983205
-#EXTINF:-1 group-title="Sports", Bein Sports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MVQRX5W/Logo-bein-sports-2.png" group-title="Sports", Bein Sports 2
 http://42.98.109.147:9981/stream/channelid/1218047888
-#EXTINF:-1 group-title="Sports", Bein Sports 8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fxM4kF6/channel-139-1524393166-social.png" group-title="Sports", Bein Sports 8
 http://42.98.109.147:9981/stream/channelid/1027178937
-#EXTINF:-1 group-title="Sports", Bein Sports 9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jfmZBDq/bein-sports-logo-png-5.png" group-title="Sports", Bein Sports 9
 http://42.98.109.147:9981/stream/channelid/1005820488
-#EXTINF:-1 group-title="Sports",FOX SPORTS 1 [Server 2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dg2fRGT/fox-sports.jpg" group-title="Sports",FOX SPORTS 1 [Server 2]
 http://42.98.109.147:9981/stream/channelid/1821842711
-#EXTINF:-1 group-title="Sports",FOX SPORTS 2 [Server 2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1M7VkJ/Fox-Sports-2-logo.png" group-title="Sports",FOX SPORTS 2 [Server 2]
 http://42.98.109.147:9981/stream/channelid/1917442074
-#EXTINF:-1 group-title="Sports",FOX SPORTS 3 [Server 2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LYfP4n2/img.png" group-title="Sports",FOX SPORTS 3 [Server 2]
 http://42.98.109.147:9981/stream/channelid/946453276
 
 
