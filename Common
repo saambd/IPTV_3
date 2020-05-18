@@ -400,8 +400,10 @@ http://103.205.133.19/hls/starsports1.m3u8
 http://42.98.109.147:9981/stream/channelid/2108154942
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports", STAR SPORTS 2
 http://103.58.73.26/streams/116/index.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports", STAR SPORTS SELECT 2 
-http://103.58.73.26/streams/114/index.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",STAR SPORTS SELECT 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports", STAR SPORTS SELECT 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports", DD Sports
 https://bracnet.iptv.jadoodigital.com/live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q1TQmq9/be-IN-SPORTS.png" group-title="Sports", Bein Sports
