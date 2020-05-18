@@ -302,13 +302,13 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now (Backup)
 http://stream-7b694ce7e.nmbs.top/m3u/Uk/040da20ef3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7WX88d/download.png" group-title="English Movies", HBO HD
-https://anytv.gov.gdn/hbo/tracks-v1a1/mono.m3u8
+http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7WX88d/download.png" group-title="English Movies",HBO (Backup)
-http://42.98.109.147:9981/stream/channelid/1935563531
+http://195.181.161.111:80/w0Rzy3wxpN/mT7smzCIXT/419
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWnssSk/223-2235770-hbo-2-hd.jpg" group-title="English Movies",HBO 2 HD
-http://42.98.109.147:9981/stream/channelid/1691890187
+http://195.181.161.111:80/w0Rzy3wxpN/mT7smzCIXT/418
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWnssSk/223-2235770-hbo-2-hd.jpg" group-title="English Movies",HBO 3 HD
-http://42.98.109.147:9981/stream/channelid/1292392431
+http://195.181.161.111:80/w0Rzy3wxpN/mT7smzCIXT/417
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GsGCL1s/60837-warner-tv-png.jpg" group-title="English Movies", Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcSF4sN/WB-india.jpg" group-title="English Movies", WB
