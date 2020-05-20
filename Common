@@ -265,8 +265,6 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/54NY76k/download-2.jpg" group-title="Hindi Movies", Anjan TV
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w7325243_b1580000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fk7Mwgd/Ub-A6-K2-Wj-400x400.jpg" group-title="Hindi Movies", Zee Biskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Hindi Movies", &Pictures
 http://42.98.109.147:9981/stream/channelid/1969735173
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SfT5MdN/ca59fa2cc76c5a7f1106e681c2a2be9d.jpg" group-title="Hindi Movies",  UTV MOVIES 
@@ -293,14 +291,10 @@ http://42.98.109.147:9981/stream/channelid/810810680
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XykbpJS/900x450-uploads-2020-03-16-b7b0d956ec.jpg" group-title="English Movies",MBC Max HD
 http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/46
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NCnZVpL/hqdefault.jpg" group-title="English Movies", MBC 2 HD
-http://fserver.yellowiptv.com:80/hls/30:34:D2:59:3C:3B/11104
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ybkp7Qz/download.jpg" group-title="English Movies", MBC Action HD
-http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/69
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+http://tv-cdn.ihub.live:8083/MoviesNow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now (Backup)
-http://stream-7b694ce7e.nmbs.top/m3u/Uk/040da20ef3.m3u8
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7WX88d/download.png" group-title="English Movies", HBO HD
 http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7WX88d/download.png" group-title="English Movies",HBO (Backup)
@@ -309,16 +303,12 @@ http://195.181.161.111:80/w0Rzy3wxpN/mT7smzCIXT/419
 http://194.88.107.19:8080/madson-restream/57sfo2ni/174
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWnssSk/223-2235770-hbo-2-hd.jpg" group-title="English Movies",HBO 3 HD
 http://195.181.161.111:80/w0Rzy3wxpN/mT7smzCIXT/417
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GsGCL1s/60837-warner-tv-png.jpg" group-title="English Movies", Warner TV
-http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcSF4sN/WB-india.jpg" group-title="English Movies", WB
-http://42.98.109.147:9981/stream/channelid/322256276
+http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="English Movies", Lotus Macau
 http://103.205.133.42:1935/local/lotus_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="English Movies", Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K9Ktr1D/Sony-movie-channel-2017-logo.png" group-title="English Movies", Sony Movies
-http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YRXYMtQ/sony-pix-hd-logo01.jpg" group-title="English Movies", SONY PIX HD (Slow)
 http://185.246.209.251:9090/sonypix/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YRXYMtQ/sony-pix-hd-logo01.jpg" group-title="English Movies", SONY PIX HD (Slow_Backup)
@@ -344,7 +334,7 @@ http://42.98.109.147:9981/stream/channelid/1506744661
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPkGDWS/hungama-tv.jpg" group-title="Cartoon ", Hungama
 http://42.98.109.147:9981/stream/channelid/1547633542
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJZkcYc/nickelodeon-590x332.jpg" group-title="Cartoon ", Nick Bangla
-https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/87.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJZkcYc/nickelodeon-590x332.jpg" group-title="Cartoon ", Nick Hindi
 http://42.98.109.147:9981/stream/channelid/1349387134
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sb4pTV2/117829378-1300x1733.jpg" group-title="Cartoon ", Tom & Jerry TV
