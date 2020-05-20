@@ -306,7 +306,7 @@ http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7WX88d/download.png" group-title="English Movies",HBO (Backup)
 http://195.181.161.111:80/w0Rzy3wxpN/mT7smzCIXT/419
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWnssSk/223-2235770-hbo-2-hd.jpg" group-title="English Movies",HBO 2 HD
-http://195.181.161.111:80/w0Rzy3wxpN/mT7smzCIXT/418
+http://194.88.107.19:8080/madson-restream/57sfo2ni/174
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pWnssSk/223-2235770-hbo-2-hd.jpg" group-title="English Movies",HBO 3 HD
 http://195.181.161.111:80/w0Rzy3wxpN/mT7smzCIXT/417
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GsGCL1s/60837-warner-tv-png.jpg" group-title="English Movies", Warner TV
