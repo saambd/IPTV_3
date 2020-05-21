@@ -298,6 +298,8 @@ http://175.41.46.16:8081/hls/2.m3u8
 http://42.98.109.147:9981/stream/channelid/810810680
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD Int
 http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English Movies",Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XykbpJS/900x450-uploads-2020-03-16-b7b0d956ec.jpg" group-title="English Movies",MBC Max HD
 http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/46
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now
