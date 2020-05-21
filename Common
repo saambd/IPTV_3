@@ -232,7 +232,7 @@ http://103.81.104.222/live/sonymax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XugRMCOVr-c/hqdefault.jpg" group-title="Hindi Movies", Sony MAX (Backup) 
 http://ccn.anytv.live:8080/sonymax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony MAX HD 
-http://175.41.46.16:8081/hls/8.m3u8
+http://ddn.amrbd.com:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony MAX HD (Backup)
 http://103.205.133.42:1935/local/set_max_hd_720/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/LDWhU4H.png"  group-title="Hindi Movies", UTV ACTION 
