@@ -187,9 +187,9 @@ https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 ||||||||||||||||||||||||||||| MUSIC |||||||||||||||||||||||||
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music", 9XM
-http://103.205.133.42:1935/local/9xm_720/index.m3u8
+http://103.81.104.222/live/9xm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OckuFU2.png"  group-title="Music",Zoom
-http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8
+http://tv-cdn.ihub.live:8083/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea33543f260e0df6b.png" group-title="Music",Mastiii
 http://103.68.116.50/live/feed1011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rLo1hK.png" group-title="Music", B4U Music
@@ -206,8 +206,6 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Music",zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KswjV76/download.png"  group-title="Music",B4U Plus SD
-http://ultraplay.org:25461/998501017/yhd634@FGGH/56507
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8NsfgRs/images.png" group-title="Music", Dhamaal
 http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w4LpvkN/Hungama-TV.jpg" group-title="Music", Dil Se 
@@ -290,7 +288,7 @@ http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies
 http://42.98.109.147:9981/stream/channelid/810810680
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD Int
-http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
+http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XykbpJS/900x450-uploads-2020-03-16-b7b0d956ec.jpg" group-title="English Movies",MBC Max HD
 http://irmgafah.ddns.net:25461/Allforyou/PWnmRYzj3v/46
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now
@@ -320,7 +318,7 @@ http://103.205.133.42:1935/local/sony_pix_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="English Movies", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zvn2Bkd.png" group-title="English Movies", MBC 2
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+http://mahs.work:80/mag00:1A:79:46:37:55/QkubjEsqXi/6798
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWJJr2G/vo-B4v-Z2-Q-400x400.jpg" group-title="English Movies", AXN
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrQzL0r/and-Flix1-550x267.jpg" group-title="English Movies", &Flix
@@ -390,6 +388,8 @@ http://43.251.86.2:8080/hls/channel_2.m3u8
 http://103.205.133.19/hls/starsports1.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports", STAR SPORTS 1 Hindi
 http://42.98.109.147:9981/stream/channelid/2108154942
+#EXTINF:0 tvg-logo="https://i.imgur.com/csu0wPy.png" group-title="Sports", Ten Cricket
+http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports", STAR SPORTS 2
 http://103.58.73.26/streams/116/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",STAR SPORTS SELECT 1 HD
