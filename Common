@@ -392,23 +392,19 @@ http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rbw0pK3/live-banner.jpg" group-title="Sports",GEO SPORTS
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports", PTV SPORTS 
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports", PTV SPORTS 
-http://43.251.86.2:8080/hls/channel_2.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports", STAR SPORTS 1
-http://103.205.133.19/hls/starsports1.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports", STAR SPORTS 1 Hindi
-http://42.98.109.147:9981/stream/channelid/2108154942
+http://103.81.104.222/live/ptv-sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports", STAR SPORTS 1 HD
+http://103.81.104.222/live/starsport-s1hd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/csu0wPy.png" group-title="Sports", Ten Cricket
 http://103.81.104.222/live/ten-cricket/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports", STAR SPORTS 2
-http://103.58.73.26/streams/116/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports", STAR SPORTS 2 HD
+http://103.81.104.222/live/star-sports-2/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",STAR SPORTS SELECT 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
+http://103.81.104.222/live/startsports-select-1hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports", STAR SPORTS SELECT 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
+http://103.81.104.222/live/startsports-select-2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports", DD Sports
-https://bracnet.iptv.jadoodigital.com/live
+https://itpolly.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q1TQmq9/be-IN-SPORTS.png" group-title="Sports", Bein Sports
 http://42.98.109.147:9981/stream/channelid/1270056858
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6YWvQT/2016-08-22-olympic-channel-thumbnail.jpg" group-title="Sports", Olympic Channel
