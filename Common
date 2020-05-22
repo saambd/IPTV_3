@@ -96,7 +96,7 @@ http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Bangla", SONY AATH  
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Bangla", SONY AATH (BACKUP)
-http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/123.m3u8
 
 
 
@@ -380,11 +380,11 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 ||||||||||||||||||||||||| Sports ||||||||||||||||||||||
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports", Sony Ten 1
-http://103.58.73.26/streams/105/index.m3u8
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/84.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports", SONY TEN 2 
-http://103.205.133.42:1935/local/sony_ten2_hd_720/index.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports", SONY TEN 3
-http://163.172.85.133:8080/TenS/3/index.m3u8
+http://ddn.amrbd.com:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports", SONY TEN 3 HD 
 http://103.205.133.42:1935/local/ten_3_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports", SONY SIX HD 
