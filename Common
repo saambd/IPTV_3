@@ -78,13 +78,13 @@ http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD
 https://triangle.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WJPcHh/925918368s.jpg" group-title="Bangla",Star Jalsha Movies
-http://103.58.73.26/streams/115/index.m3u8
+http://103.81.104.222/live/star-jolsa-movies-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJ8jGKr/Screenshot-1.jpg" group-title="Bangla",Star Jalsha Movies HD
 http://175.41.46.16:8081/hls/4.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Bangla",Zee Bangla
-http://103.205.133.42:1935/local/zee_bangla_720/playlist.m3u8
+http://103.81.104.222/live/zee-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="Bangla", Zee Bangla Cinema
-http://103.205.133.42:1935/local/zee_bangla_cinema_720/chunklist.m3u8
+http://103.81.104.222/live/zeebanglacinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Bangla",COLORS BANGLA
 https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Bangla",COLORS BANGLA HD
