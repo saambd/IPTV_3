@@ -341,9 +341,9 @@ http://42.98.109.147:9981/stream/channelid/1900232811
 ||||||||||||||||||||||||||||||||| Cartoon||||||||||||||||||||||||||||||||||||
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hVhvNGM/the-disney-channel-logo.jpg" group-title="Cartoon ", Disney Hindi
-http://42.98.109.147:9981/stream/channelid/1506744661
+http://202.163.117.6:9981/stream/channelid/349051393
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPkGDWS/hungama-tv.jpg" group-title="Cartoon ", Hungama
-http://42.98.109.147:9981/stream/channelid/1547633542
+http://202.163.117.6:9981/stream/channelid/1357890196
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJZkcYc/nickelodeon-590x332.jpg" group-title="Cartoon ", Nick Bangla
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/87.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJZkcYc/nickelodeon-590x332.jpg" group-title="Cartoon ", Nick Hindi
