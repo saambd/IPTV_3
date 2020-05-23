@@ -422,5 +422,7 @@ http://42.98.109.147:9981/stream/channelid/1917442074
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LYfP4n2/img.png" group-title="Sports",FOX SPORTS 3 [Server 2]
 http://42.98.109.147:9981/stream/channelid/946453276
 
+#EXTINF:-1,Sony Six HD
+http://103.118.76.186:9981/stream/channelid/2142559996
 
 
