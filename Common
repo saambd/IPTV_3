@@ -44,9 +44,7 @@ https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png"  group-title="Bangla",SA TV
 https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangla",Maasranga
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangla",Maasranga (Backup)
-http://175.41.46.16:8081/hls/10.m3u8
+http://103.135.208.14/live/ibox/bd/19.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangla", My TV
 https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png"  group-title="Bangla",Somoy News
@@ -57,21 +55,19 @@ https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangla", Mohona TV
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gwVmRS4/61633720-2460607000650380-7239533123938025472-n.png" group-title="Bangla", Bijoy Tv (icc)
-http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gwVmRS4/61633720-2460607000650380-7239533123938025472-n.png" group-title="Bangla", Bijoy Tv 
+http://103.135.208.14/live/ibox/bd/30.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KXcWS1/unnamed.png"group-title="Bangla", Peace TV Bangla
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+http://103.135.208.14/live/ibox/bd/34.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sbtY0d4/Iqra-Bangla.png" group-title="Bangla", Iqra Bangla
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangla",Ananda TV
-http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/DJcpP2t4Mdp.png" group-title="Bangla", ATN Islamic TV
-http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/98.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/89VjRFk/download.jpg" group-title="Bangla", Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD
 http://175.41.46.16:8081/hls/7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (Backup)
 https://triangle.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WJPcHh/925918368s.jpg" group-title="Bangla",Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
@@ -90,7 +86,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Bangla", SONY AATH  
 http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Bangla", SONY AATH (BACKUP)
-http://iptv.kitv.live:1935/live/Shari/MTV-P/123.m3u8
+http://103.135.208.14/live/ibox/bd/36.m3u8
 
 
 
@@ -117,7 +113,7 @@ http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV HD (Backup)
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Hindi Entertainment", Sony SAB SD 
-http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
+http://103.135.208.14/live/ibox/bd/45.m3u8
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Hindi Entertainment", SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqrcZkf/download-2.jpg" group-title="Hindi Entertainment", HUM TV HD
@@ -254,6 +250,10 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TRv5VP/Star-Gold-Karo-Dil-Ki.jpg" group-title="Hindi Movies", Star Gold HD (Backup)  
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="Hindi Movies",Star Gold 2
+http://103.135.208.14/live/ibox/bd/99.m3u8
+#EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Hindi Movies", & Pictures
+http://103.135.208.14/live/ibox/bd/94.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Cqcr4V.png" group-title="Hindi Movies",Bflix Movies
 http://iptv.kitv.live:1935/live/Shari/MTV-P/144.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D7TZcZm/download-1.jpg" group-title="Hindi Movies", Zee Aflam
