@@ -259,30 +259,18 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 http://tv-cdn.ihub.live:8083/MoviesNow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7WX88d/download.png" group-title="English Movies", HBO HD
 http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pWnssSk/223-2235770-hbo-2-hd.jpg" group-title="English Movies",HBO 2 HD
-http://194.88.107.19:8080/madson-restream/57sfo2ni/174
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pWnssSk/223-2235770-hbo-2-hd.jpg" group-title="English Movies",HBO 3 HD
-http://195.181.161.111:80/w0Rzy3wxpN/mT7smzCIXT/417
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcSF4sN/WB-india.jpg" group-title="English Movies", WB
 http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="English Movies", Lotus Macau
 http://ccn.anytv.live:8080/animalp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="English Movies", Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LRpzxd2/Sony-PIX.png" group-title="English Movies", SONY PIX 
-http://iptv.kitv.live:1935/live/Shari/MTV-P/148.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YRXYMtQ/sony-pix-hd-logo01.jpg" group-title="English Movies", SONY PIX HD (Slow)
-http://185.246.209.251:9090/sonypix/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YRXYMtQ/sony-pix-hd-logo01.jpg" group-title="English Movies", SONY PIX HD (Slow_Backup)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YRXYMtQ/sony-pix-hd-logo01.jpg" group-title="English Movies", SONY PIX HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="English Movies", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zvn2Bkd.png" group-title="English Movies", MBC 2
-http://mahs.work:80/mag00:1A:79:46:37:55/QkubjEsqXi/6798
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWJJr2G/vo-B4v-Z2-Q-400x400.jpg" group-title="English Movies", AXN
 http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrQzL0r/and-Flix1-550x267.jpg" group-title="English Movies", &Flix
-http://42.98.109.147:9981/stream/channelid/1900232811
 
 
 
