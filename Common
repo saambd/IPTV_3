@@ -280,80 +280,41 @@ http://136.243.177.164/AXN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJZkcYc/nickelodeon-590x332.jpg" group-title="Cartoon ", Nick Bangla
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/87.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FJZkcYc/nickelodeon-590x332.jpg" group-title="Cartoon ", Nick Hindi
-http://42.98.109.147:9981/stream/channelid/1349387134
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k0bpb63/Slide1-6.jpg"  group-title="Cartoon ", CARTOON NETWORK Hindi (Backup)
-http://42.98.109.147:9981/stream/channelid/1250940728
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k0bpb63/Slide1-6.jpg"  group-title="Cartoon ", CARTOON NETWORK
+http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Discovery Kids
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Disney XD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sb4pTV2/117829378-1300x1733.jpg" group-title="Cartoon ", Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hVhvNGM/the-disney-channel-logo.jpg" group-title="Cartoon ", Disney Hindi
 http://202.163.117.6:9981/stream/channelid/349051393
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TPkGDWS/hungama-tv.jpg" group-title="Cartoon ", Hungama
 http://202.163.117.6:9981/stream/channelid/1357890196
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sb4pTV2/117829378-1300x1733.jpg" group-title="Cartoon ", Tom & Jerry TV
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rHsfkZM/1327320-Latvian-Show-Master-Key-Art-64ef4571-7178-e711-8175-020165574d09.jpg" group-title="Cartoon ", DRAGON BALL Z TV
 https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TT43dsm/unnamed.jpg" group-title="Cartoon ", Sony YAY Bangla 
-http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dJrKRFp/unnamed-1.jpg" group-title="Cartoon ", Sony YAY Hindi
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pPrjmbK/pogo-logo.png" group-title="Cartoon ", Pogo
-http://42.98.109.147:9981/stream/channelid/1948507640
-#EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Disney XD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Discovery Kids
-http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Discovery Kids (Backup)
-http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k0bpb63/Slide1-6.jpg" group-title="Cartoon ", CARTOON NETWORK Hindi
-https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hVhvNGM/the-disney-channel-logo.jpg" group-title="Cartoon ",Disney Channel Eng
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-
-
-
 
 
 
 
 ||||||||||||||||||||||||| Sports ||||||||||||||||||||||
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports", Sony Ten 1
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/84.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="Sports", Sony TEN 1
+http://ddn.amrbd.com:8081/live/ten1hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="Sports", SONY TEN 2 
 http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports", SONY TEN 3
 http://ddn.amrbd.com:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports", SONY SIX HD 
-http://iptv.kitv.live:1935/live/Shari/MTV-P/158.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rbw0pK3/live-banner.jpg" group-title="Sports",GEO SPORTS
-http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
+https://bit.ly/3aOi4pl
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports", PTV SPORTS 
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports", STAR SPORTS 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/161.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/csu0wPy.png" group-title="Sports", Ten Cricket
-http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports", STAR SPORTS 2 HD
 http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/101.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",STAR SPORTS SELECT 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports", STAR SPORTS SELECT 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports", DD Sports
-https://itpolly.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q1TQmq9/be-IN-SPORTS.png" group-title="Sports", Bein Sports
-http://42.98.109.147:9981/stream/channelid/1270056858
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6YWvQT/2016-08-22-olympic-channel-thumbnail.jpg" group-title="Sports", Olympic Channel
-http://42.98.109.147:9981/stream/channelid/151983205
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MVQRX5W/Logo-bein-sports-2.png" group-title="Sports", Bein Sports 2
-http://42.98.109.147:9981/stream/channelid/1218047888
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fxM4kF6/channel-139-1524393166-social.png" group-title="Sports", Bein Sports 8
-http://42.98.109.147:9981/stream/channelid/1027178937
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jfmZBDq/bein-sports-logo-png-5.png" group-title="Sports", Bein Sports 9
-http://42.98.109.147:9981/stream/channelid/1005820488
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dg2fRGT/fox-sports.jpg" group-title="Sports",FOX SPORTS 1 [Server 2]
-http://42.98.109.147:9981/stream/channelid/1821842711
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s1M7VkJ/Fox-Sports-2-logo.png" group-title="Sports",FOX SPORTS 2 [Server 2]
-http://42.98.109.147:9981/stream/channelid/1917442074
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYfP4n2/img.png" group-title="Sports",FOX SPORTS 3 [ServerServe
-http://42.98.109.147:9981/stream/channeli946453276
