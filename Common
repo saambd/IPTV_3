@@ -279,7 +279,7 @@ http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Cartoon",Sony Yay
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Cartoon ",Sony Yay
 http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sb4pTV2/117829378-1300x1733.jpg" group-title="Cartoon ", Tom & Jerry TV
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
