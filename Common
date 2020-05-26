@@ -261,6 +261,9 @@ https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=e
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWJJr2G/vo-B4v-Z2-Q-400x400.jpg" group-title="English Movies", AXN
 http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="English Movies",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
 
 
 
