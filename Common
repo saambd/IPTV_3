@@ -110,10 +110,8 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 http://ddn.amrbd.com:8081/live/andtv-27/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV SD
 http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV HD (Backup)
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV HD 
 https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Hindi Entertainment", Sony SAB SD 
-http://103.135.208.14/live/ibox/bd/45.m3u8
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Hindi Entertainment", SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqrcZkf/download-2.jpg" group-title="Hindi Entertainment", HUM TV HD
@@ -129,7 +127,7 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="International News", BBC World News
 http://220.158.149.28:8180/TV00000000000000000112@HHZT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="International News", CNN
-http://84.22.33.254/unicast.cnn/video.m3u8
+https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="International News", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="International News", DW
@@ -207,8 +205,6 @@ http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XugRMCOVr-c/hqdefault.jpg" group-title="Hindi Movies",SONY MAX 
 http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XugRMCOVr-c/hqdefault.jpg" group-title="Hindi Movies", Sony MAX (Backup) 
-https://bit.ly/2KHAq0x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony MAX HD 
 https://bit.ly/2KHAq0x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony MAX HD (Backup)
@@ -249,9 +245,6 @@ http://103.135.208.14/live/ibox/bd/7.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies 
 http://175.41.46.16:8081/hls/2.m3u8
-
-
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English Movies",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now
@@ -261,7 +254,7 @@ http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcSF4sN/WB-india.jpg" group-title="English Movies", WB
 http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="English Movies", Lotus Macau
-http://ccn.anytv.live:8080/animalp/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="English Movies", Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YRXYMtQ/sony-pix-hd-logo01.jpg" group-title="English Movies", SONY PIX HD
@@ -306,7 +299,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="Sports", SONY TEN 3
 http://ddn.amrbd.com:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports", SONY SIX HD 
-https://bit.ly/3aOi4pl
+http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports", PTV SPORTS 
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports", STAR SPORTS 1 HD
