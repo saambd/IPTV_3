@@ -247,12 +247,11 @@ http://103.135.208.14/live/ibox/bd/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8BPQtn/h7j6-Rn95-400x400.jpg" group-title="English Movies", MNX 
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies 
 http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies
-http://42.98.109.147:9981/stream/channelid/810810680
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD Int
-http://ddn.amrbd.com:8081/live/starmovies/playlist.m3u8
+
+
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English Movies",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now
