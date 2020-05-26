@@ -310,3 +310,6 @@ http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/101.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports", STAR SPORTS SELECT 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
+
+#EXTINF:-1 SP
+http://tvserver.aliflailabd.com:8081/37/index.m3u8?token=8413b4c9697d6c5e0841183fd2378a8a73943ad3-022a8a90ad6c6f665266823fbbdce14c-1590491087-1590480287&remote=103.106.243.74
