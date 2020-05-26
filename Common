@@ -205,8 +205,8 @@ http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XugRMCOVr-c/hqdefault.jpg" group-title="Hindi Movies",SONY MAX 
 http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony MAX HD 
-https://bit.ly/2KHAq0x
+#EXTINF:0 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies",Sony Max HD
+http://tvserver.aliflailabd.com:8081/37/index.m3u8?token=8413b4c9697d6c5e0841183fd2378a8a73943ad3-022a8a90ad6c6f665266823fbbdce14c-1590491087-1590480287&remote=103.106.243.74
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony MAX HD (Backup)
 http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qe37MM0.png"  group-title="Hindi Movies", Manoranjan 
