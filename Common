@@ -66,23 +66,17 @@ http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/98.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/89VjRFk/download.jpg" group-title="Bangla", Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD
-http://175.41.46.16:8081/hls/7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD (Backup)
 https://triangle.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WJPcHh/925918368s.jpg" group-title="Bangla",Star Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jJ8jGKr/Screenshot-1.jpg" group-title="Bangla",Star Jalsha Movies HD
-http://175.41.46.16:8081/hls/4.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Bangla",Zee Bangla
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/03.m3u8
+https://triangle.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="Bangla", Zee Bangla Cinema
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/158.m3u8
+http://ddn.amrbd.com:8081/live/zeebanglacinema-33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Bangla",COLORS BANGLA
 https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Bangla",COLORS BANGLA HD
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pVncEBk.png" group-title="Bangla",ABP Ananda 
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Bangla", SONY AATH  
 http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Bangla", SONY AATH (BACKUP)
@@ -226,7 +220,7 @@ https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="Hindi Movies",Star Gold 2
 http://103.135.208.14/live/ibox/bd/99.m3u8
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Hindi Movies", & Pictures
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/141.m3u8
+http://103.135.208.14/live/ibox/bd/94.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Cqcr4V.png" group-title="Hindi Movies",Bflix Movies
 http://iptv.kitv.live:1935/live/Shari/MTV-P/144.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6J27wsR/5p-Gf-Fugz-400x400.jpg" group-title="Hindi Movies", N TV Huston MOVIES
