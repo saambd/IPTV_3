@@ -104,7 +104,7 @@ https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqrcZkf/download-2.jpg" group-title="Hindi Entertainment", HUM TV HD
 http://95.211.211.168/live/humtv0066/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vZYLQq6/masalatv-logo.jpg" group-title="Hindi Entertainment",HUM MASALA
-https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/142.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gThqK4/1200px-STAR-World-svg.png" group-title="Hindi Entertainment",Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
