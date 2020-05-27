@@ -199,8 +199,6 @@ http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XugRMCOVr-c/hqdefault.jpg" group-title="Hindi Movies",SONY MAX 
 http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies",Sony Max HD
-http://tvserver.aliflailabd.com:8081/37/index.m3u8?token=8413b4c9697d6c5e0841183fd2378a8a73943ad3-022a8a90ad6c6f665266823fbbdce14c-1590491087-1590480287&remote=103.106.243.74
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qe37MM0.png"  group-title="Hindi Movies", Manoranjan 
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtHBVmK/images.jpg"  group-title="Hindi Movies", MAHA MOVIE
@@ -211,12 +209,8 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 http://ddn.amrbd.com:8081/live/zeeaction-35/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Hindi Movies", STAR GOLD
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Hindi Movies", STAR GOLD (Backup)
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TRv5VP/Star-Gold-Karo-Dil-Ki.jpg" group-title="Hindi Movies", Star Gold HD 
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5TRv5VP/Star-Gold-Karo-Dil-Ki.jpg" group-title="Hindi Movies", Star Gold HD (Backup)  
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="Hindi Movies",Star Gold 2
 http://103.135.208.14/live/ibox/bd/99.m3u8
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Hindi Movies", & Pictures
@@ -236,7 +230,7 @@ http://103.135.208.14/live/ibox/bd/7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8BPQtn/h7j6-Rn95-400x400.jpg" group-title="English Movies", MNX 
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies 
-http://175.41.46.16:8081/hls/2.m3u8
+http://202.163.117.6:9981/stream/channelid/1210441427
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English Movies",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now
@@ -307,7 +301,3 @@ http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/101.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports", STAR SPORTS SELECT 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
-
-
-#EXTINF:-1 ,Star Movies HD Middle East
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
