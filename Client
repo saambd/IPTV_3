@@ -179,7 +179,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/190.m3u8
 http://ccn.anytv.live:8080/sangeetbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Music",zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea625bcf18949a90a.png" group-title="KS",VH1
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea625bcf18949a90a.png" group-title="Music", VH1
 https://itpolly.iptv.digijadoo.net/live/vh1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S6SWFJw/50287-9xo.jpg" group-title="Music", 9XO 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
