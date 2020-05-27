@@ -275,7 +275,7 @@ http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJZkcYc/nickelodeon-590x332.jpg" group-title="Cartoon ", Nick 
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://i.ibb.co/ws889k9/Cartoon-Network-Hindi.png " group-title="Cartoon ", CARTOON NETWORK HINDI (Need Hingh Speed Internet)
+#EXTINF:-1, tvg-logo="https://i.ibb.co/ws889k9/Cartoon-Network-Hindi.png " group-title="Cartoon ", CARTOON NETWORK HINDI (Need Hingh Speed Internet)
 http://iptvlive.stream:80/p/742537/c/25/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k0bpb63/Slide1-6.jpg"  group-title="Cartoon ", CARTOON NETWORK Eng
 http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
