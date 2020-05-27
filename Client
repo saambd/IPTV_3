@@ -273,6 +273,8 @@ http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPnW3Ks/hungama-tv.jpg" group-title="Cartoon ", Hungama
+http://iptvlive.stream:80/p/932301/c/70/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="Cartoon ", Sony Yay
 http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sb4pTV2/117829378-1300x1733.jpg" group-title="Cartoon ", Tom & Jerry TV
@@ -322,6 +324,4 @@ https://itpolly.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
 http://103.135.208.14/live/ibox/bd/34.m3u8
 
 
-#EXTINF:-1,Hungama
-http://iptvlive.stream:80/p/932301/c/70/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 
