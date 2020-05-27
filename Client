@@ -310,3 +310,10 @@ https://itpolly.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aI0KwL2.png" group-title="Sports", Fight Sports
 http://45.126.83.51/uq2663/h/h05/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykb0rpF/maxresdefault.jpg" group-title="Religious", Quran TV
+https://itpolly.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WMBkyv/Al-Sunnah-Saudi.jpg" group-title="Religious", Sunnah TV
+https://itpolly.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KXcWS1/unnamed.png"group-title="Religious", Peace TV Bangla
+http://103.135.208.14/live/ibox/bd/34.m3u8
+
