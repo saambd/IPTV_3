@@ -99,8 +99,8 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 http://ddn.amrbd.com:8081/live/andtv-27/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV SD
 http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV HD 
-http://iptvlive.stream:80/p/989789/c/8/u/265808/t92mHtfWf0qWxsrssJq0pWNyTbWJH3.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV HD (Need Hingh Speed Internet)  
+http://iptvlive.stream:80/p/932997/c/12/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Hindi Entertainment", SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqrcZkf/download-2.jpg" group-title="Hindi Entertainment", HUM TV HD
@@ -201,16 +201,16 @@ http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony Max HD
 http://ddn.amrbd.com:8081/live/satmax-37/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LDWhU4H.png" group-title="Hindi Movies", UTV Action
-http://iptvlive.stream:80/p/932301/c/79/u/265808/t92mHtfWf0qWxsrssJq0pWNyTbWJH3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LDWhU4H.png" group-title="Hindi Movies", UTV Action (Need Hingh Speed Internet)
+http://iptvlive.stream:80/p/932301/c/79/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qe37MM0.png"  group-title="Hindi Movies", Manoranjan 
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtHBVmK/images.jpg"  group-title="Hindi Movies", MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies", ZEE Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies", ZEE Cinema HD
-http://iptvlive.stream:80/p/974904/c/10/u/265808/t92mHtfWf0qWxsrssJq0pWNyTbWJH3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies", ZEE Cinema HD (Need Hingh Speed Internet)
+http://iptvlive.stream:80/p/974904/c/10/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Kt7S2J.png" group-title="Hindi Movies", ZEE ACTION
 http://ddn.amrbd.com:8081/live/zeeaction-35/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="Hindi Movies", STAR GOLD
@@ -320,4 +320,8 @@ https://itpolly.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KXcWS1/unnamed.png"group-title="Religious", Peace TV Bangla
 http://103.135.208.14/live/ibox/bd/34.m3u8
+
+
+#EXTINF:-1,Hungama
+http://iptvlive.stream:80/p/932301/c/70/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 
