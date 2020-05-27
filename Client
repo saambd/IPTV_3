@@ -158,6 +158,9 @@ https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/TLC.de.png" group-title="Knowledge & Lifestyle",TLC HD
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image495361b76fa00b2b.png" group-title="Knowledge & Lifestyle", FYI TV18
+https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+
 
 
 
@@ -176,6 +179,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/190.m3u8
 http://ccn.anytv.live:8080/sangeetbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Music",zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea625bcf18949a90a.png" group-title="KS",VH1
+https://itpolly.iptv.digijadoo.net/live/vh1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S6SWFJw/50287-9xo.jpg" group-title="Music", 9XO 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrJdKTy/Box-Hits-1.jpg" group-title="Music", Box Hits
@@ -248,6 +253,8 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="English Movies",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/22bFS2O.png" group-title="English Movies", & Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 
 
 
@@ -294,3 +301,14 @@ http://103.135.208.14/live/ibox/bd/78.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports", STAR SPORTS SELECT 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ERFDaE4.png" group-title="Sports", Ad Sports 3
+http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yio8nom.png" group-title="Sports", Ad Sports 4
+http://ddn.amrbd.com:8081/live/adsports4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sports", Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports", DD Sports
+https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aI0KwL2.png" group-title="Sports", Fight Sports
+http://45.126.83.51/uq2663/h/h05/index.m3u8
+
