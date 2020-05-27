@@ -39,7 +39,7 @@ https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 https://triangle.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png"  group-title="Bangla",Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangla",RTV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangla",RTV
 https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png"  group-title="Bangla",SA TV
 https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
@@ -57,6 +57,8 @@ https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gwVmRS4/61633720-2460607000650380-7239533123938025472-n.png" group-title="Bangla", Bijoy Tv 
 http://103.135.208.14/live/ibox/bd/30.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangla", Bangla TV
+http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/162.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8KXcWS1/unnamed.png"group-title="Bangla", Peace TV Bangla
 http://103.135.208.14/live/ibox/bd/34.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla",Star Jalsha HD
