@@ -88,7 +88,7 @@ https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kpd1qL1.png" group-title="Hindi Entertainment",Colors HD 
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X5p9h4Y/download-1.jpg" group-title="Hindi Entertainment",Star Plus HD
-http://185.246.209.251:9090/starplus/index.m3u8?token=test
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48bLFLv/star-plus-logo.jpg" group-title="Hindi Entertainment",Star Plus SD
 https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IsX0abi.png" group-title="Hindi Entertainment",Star Bharat HS
