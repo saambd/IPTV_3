@@ -168,7 +168,11 @@ https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 ||||||||||||||||||||||||||||| MUSIC |||||||||||||||||||||||||
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OckuFU2.png"  group-title="Music",Zoom
-http://tv-cdn.ihub.live:8083/Zoom/tracks-v1a1/mono.m3u8
+http://iptvlive.stream:80/p/742537/c/17/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co/rM0WQZM/Jalwa-TV-WATCH-LIVE-ONLINE-HD-HIGH-QUALITY-STREAMING.png "  group-title="Music", Jalwa HD 
+http://iptvlive.stream:80/p/742537/c/18/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co/ScVfKHR/timthumb.jpg " group-title="Music", 9X JALWA
+http://iptvlive.stream:80/p/742537/c/22/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea33543f260e0df6b.png" group-title="Music",Mastiii
 http://iptv.kitv.live:1935/live/Shari/MTV-P/184.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rLo1hK.png" group-title="Music", B4U Music
@@ -237,14 +241,16 @@ http://103.135.208.14/live/ibox/bd/7.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies 
 http://202.163.117.6:9981/stream/channelid/1210441427
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD (Need Hingh Speed Internet)
 http://iptvlive.stream:80/p/932307/c/49/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English Movies",Star Movies Select HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English Movies",Star Movies Select HD (Need Hingh Speed Internet)
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7WX88d/download.png" group-title="English Movies", HBO HD
 http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yLwNHZ/hbo-signature-logo-png-transparent.png" group-title="English Movies", HBO Signature HD (Need Hingh Speed Internet) 
+http://iptvlive.stream:80/p/936249/c/10/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcSF4sN/WB-india.jpg" group-title="English Movies", WB
 http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="English Movies", Lotus Macau
@@ -269,7 +275,9 @@ http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJZkcYc/nickelodeon-590x332.jpg" group-title="Cartoon ", Nick 
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k0bpb63/Slide1-6.jpg"  group-title="Cartoon ", CARTOON NETWORK
+#EXTINF:-1,tvg-logo="https://i.ibb.co/ws889k9/Cartoon-Network-Hindi.png " group-title="Cartoon ", CARTOON NETWORK HINDI (Need Hingh Speed Internet)
+http://iptvlive.stream:80/p/742537/c/25/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k0bpb63/Slide1-6.jpg"  group-title="Cartoon ", CARTOON NETWORK Eng
 http://ccn.anytv.live:8080/cartoonnet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/64CgjBn/download.png" group-title="Cartoon ", Discovery Kids
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
