@@ -301,3 +301,7 @@ http://103.135.208.14/live/ibox/bd/78.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports", STAR SPORTS SELECT 2 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="UAE",Star Movies (HD)
+PWdUZHowbUwyUjNjMWhYZHNaMlA0VTNNdDVTTnc4eWNsbG1kdjEyWHlGR2R6OXljc2gyTGxGbUxsSlhab2RYZXVGbWQwNVNNbzVHWmpWbWRweDJMdm9EYzBSSGE=
+
