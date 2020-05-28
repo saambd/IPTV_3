@@ -104,11 +104,11 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDzyKt3/cropped-Tv.png" group-title="Hindi Entertainment",&TV HD
 http://ddn.amrbd.com:8081/live/andtv-27/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vPzSWTm/screen-0.jpg" group-title="Hindi Entertainment",  Sony Pal
-http://iptvlive.stream:80/p/932308/c/18/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8#EXTINF:-1,Sony Pal
+http://iptvlive.stream:80/p/932308/c/18/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV SD
 http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV HD 
-https://bit.ly/2y8X7Ik
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV HD (Hingh Speed Internet Required)
+http://iptvlive.stream:80/p/969512/c/4/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8 
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Hindi Entertainment", SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqrcZkf/download-2.jpg" group-title="Hindi Entertainment", HUM TV HD
@@ -213,8 +213,6 @@ https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OckuFU2.png"  group-title="Music",Zoom
 http://iptvlive.stream:80/p/742537/c/17/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rM0WQZM/Jalwa-TV-WATCH-LIVE-ONLINE-HD-HIGH-QUALITY-STREAMING.png "  group-title="Music", Jalwa HD 
-http://iptvlive.stream:80/p/742537/c/18/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScVfKHR/timthumb.jpg " group-title="Music", 9X JALWA
 http://iptvlive.stream:80/p/742537/c/22/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea33543f260e0df6b.png" group-title="Music",Mastiii
@@ -231,6 +229,8 @@ https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
 http://iptvlive.stream:80/p/239904/c/46/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea625bcf18949a90a.png" group-title="Music", VH1
 https://itpolly.iptv.digijadoo.net/live/vh1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rM0WQZM/Jalwa-TV-WATCH-LIVE-ONLINE-HD-HIGH-QUALITY-STREAMING.png "  group-title="Music", Jalwa HD 
+http://iptvlive.stream:80/p/742537/c/18/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S6SWFJw/50287-9xo.jpg" group-title="Music", 9XO 
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrJdKTy/Box-Hits-1.jpg" group-title="Music", Box Hits
