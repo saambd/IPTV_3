@@ -273,8 +273,10 @@ https://itpolly.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 http://137.59.155.253:8088/hls/Star_Gold.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5TRv5VP/Star-Gold-Karo-Dil-Ki.jpg" group-title="Hindi Movies", Star Gold HD 
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="Hindi Movies",Star Gold 2
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image43c0e0062d57475e.png" group-title="Hindi Movies",Star Gold 2
 http://103.135.208.14/live/ibox/bd/99.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KNnPR2/download-1.jpg" group-title="Hindi Movies", Bollywood HD (Hingh Speed Internet Required)
+http://iptvlive.stream:80/p/821526/c/22/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="Hindi Movies", & Pictures
 http://103.135.208.14/live/ibox/bd/94.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Cqcr4V.png" group-title="Hindi Movies",Bflix Movies
