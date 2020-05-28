@@ -101,8 +101,8 @@ http://ddn.amrbd.com:8081/live/andtv-27/playlist.m3u8
 http://iptvlive.stream:80/p/932308/c/18/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8#EXTINF:-1,Sony Pal
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV SD
 http://ccn.anytv.live:8080/sony/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV HD (Need Hingh Speed Internet)  
-http://iptvlive.stream:80/p/932997/c/12/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Hindi Entertainment",  SONY TV HD 
+https://bit.ly/2y8X7Ik
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Hindi Entertainment", SONY SAB HD 
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mqrcZkf/download-2.jpg" group-title="Hindi Entertainment", HUM TV HD
@@ -144,13 +144,13 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/167.m3u8
 https://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 #EXTINF:-1 tvg-logo="http://static.epg.best/au/DiscoveryTurbo.au.png" group-title="Knowledge & Lifestyle", Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:0 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png"  group-title="Knowledge & Lifestyle",Discovery Hindi
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png"  group-title="Knowledge & Lifestyle",Discovery Hindi
 https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
-#EXTINF:0 tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png"  group-title="Knowledge & Lifestyle",Investigation Discovery Hindi
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png"  group-title="Knowledge & Lifestyle",Investigation Discovery Hindi
 http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png"  group-title="Knowledge & Lifestyle",Animal Planet Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86jLO7q.png"  group-title="Knowledge & Lifestyle",Animal Planet Hindi
 https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
-#EXTINF:0 tvg-logo="https://static.epg.best/de/TLC.de.png"  group-title="Knowledge & Lifestyle",TLC Hindi
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/TLC.de.png"  group-title="Knowledge & Lifestyle",TLC Hindi
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rrgu5uB.png" group-title="Knowledge & Lifestyle", SONY BBC EARTH HD
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -171,9 +171,9 @@ https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OckuFU2.png"  group-title="Music",Zoom
 http://iptvlive.stream:80/p/742537/c/17/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
-#EXTINF:-1, tvg-logo="https://i.ibb.co/rM0WQZM/Jalwa-TV-WATCH-LIVE-ONLINE-HD-HIGH-QUALITY-STREAMING.png "  group-title="Music", Jalwa HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rM0WQZM/Jalwa-TV-WATCH-LIVE-ONLINE-HD-HIGH-QUALITY-STREAMING.png "  group-title="Music", Jalwa HD 
 http://iptvlive.stream:80/p/742537/c/18/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
-#EXTINF:-1, tvg-logo="https://i.ibb.co/ScVfKHR/timthumb.jpg " group-title="Music", 9X JALWA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ScVfKHR/timthumb.jpg " group-title="Music", 9X JALWA
 http://iptvlive.stream:80/p/742537/c/22/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea33543f260e0df6b.png" group-title="Music",Mastiii
 http://iptv.kitv.live:1935/live/Shari/MTV-P/184.m3u8
@@ -206,9 +206,9 @@ http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XugRMCOVr-c/hqdefault.jpg" group-title="Hindi Movies",SONY MAX
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony Max HD (Hingh Speed Internet Required)
-http://iptvlive.stream:80/p/899815/c/26/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+http://ccn.anytv.live:8080/sonymax/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPHRJa9.png" group-title="Hindi Movies", Sony Max HD
+https://bit.ly/2KHAq0x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LDWhU4H.png" group-title="Hindi Movies", UTV Action 
 http://iptvlive.stream:80/p/932301/c/79/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svSGYX0/cineplexhd.png" group-title="Hindi Movies", Cineplex HD (Hingh Speed Internet Required)
@@ -219,8 +219,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies", ZEE Cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies", ZEE Cinema HD (Hingh Speed Internet Required)
-http://iptvlive.stream:80/p/974904/c/10/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Kt7S2J.png" group-title="Hindi Movies", ZEE ACTION
 http://ddn.amrbd.com:8081/live/zeeaction-35/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image07b289bfcc961244.png" group-title="Hindi Movies", Enterr Ten
@@ -245,20 +243,6 @@ http://103.135.208.14/live/ibox/bd/7.m3u8
 
 ||||||||||||||||||||||||||||||| English Movies |||||||||||||||||||||||
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD (Hingh Speed Internet Required)
-http://iptvlive.stream:80/p/932307/c/49/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English Movies",Star Movies Select HD (Hingh Speed Internet Required)
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/z7WX88d/download.png" group-title="English Movies", HBO HD
-http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0yLwNHZ/hbo-signature-logo-png-transparent.png" group-title="English Movies", HBO Signature HD (Need Hingh Speed Internet) 
-http://iptvlive.stream:80/p/936249/c/10/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pdYh1KW/hqdefault.jpg" group-title="English Movies", MBC Action (Need Hingh Speed Internet) 
-http://iptvlive.stream:80/p/983515/c/21/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mvxC4gD/MBC-MAX-on-light.jpg" group-title="English Movies", MBC Max HD (Need Hingh Speed Internet) 
-http://iptvlive.stream:80/p/885463/c/164/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcSF4sN/WB-india.jpg" group-title="English Movies", WB
 http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8BPQtn/h7j6-Rn95-400x400.jpg" group-title="English Movies", MNX 
@@ -271,8 +255,20 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="English Movies", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z7WX88d/download.png" group-title="English Movies", HBO HD
+http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWJJr2G/vo-B4v-Z2-Q-400x400.jpg" group-title="English Movies", AXN
 http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdYh1KW/hqdefault.jpg" group-title="English Movies", MBC Action (Need Hingh Speed Internet) 
+http://iptvlive.stream:80/p/983515/c/21/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mvxC4gD/MBC-MAX-on-light.jpg" group-title="English Movies", MBC Max HD (Need Hingh Speed Internet) 
+http://iptvlive.stream:80/p/885463/c/164/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAfu2jz.png"  group-title="English Movies", Star Movies HD (Hingh Speed Internet Required)
+http://iptvlive.stream:80/p/932307/c/49/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="English Movies",Star Movies Select HD (Hingh Speed Internet Required)
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image98ac39dd465aab52.png" group-title="English Movies", Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/WaiZDkX.png" group-title="English Movies",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
