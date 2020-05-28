@@ -420,17 +420,13 @@ https://triangle.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
 https://triangle.iptv.digijadoo.net/live/dd_national/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UE57LRe.png" group-title="OTHERS", YTN
 https://triangle.iptv.digijadoo.net/live/ytn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="Others",NHK World Japan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="OTHERSOTHERS",NHK World Japan
 https://triangle.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image98a803280a70bd4f.png" group-title="Others", ET Now
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image98a803280a70bd4f.png" group-title="OTHERS", ET Now
 https://triangle.iptv.digijadoo.net/live/et_now/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="Others",Diva
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="OTHERS",Diva
 https://triangle.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-logo"https://i.ibb.co/NSnh7nm/FYI-logo-svg.png" group-title="Others", FYI HD
+#EXTINF:-1 tvg-logo"https://i.ibb.co/NSnh7nm/FYI-logo-svg.png" group-title="OTHERS", FYI HD
 https://triangle.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png" group-title="Others",Comedy Central
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png" group-title="OTHERS",Comedy Central
 https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
-
-
-#EXTINF:-1,MTV India
-http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/mtvindia/playlist.m3u8
