@@ -387,8 +387,7 @@ http://iptvlive.stream:80/p/899815/c/29/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.
 http://iptvlive.stream:80/p/899815/c/30/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K58c9r9/images.png" group-title="Sports", TSN 4 HD (Hingh Speed Internet Required)
 http://iptvlive.stream:80/p/899815/c/31/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
-#EXTINF:-1 tvg-logo=""https://i.ibb.co/Rc2D6Pb/1200px-TVASports-svg.png" group-title="Sports", TVA Sports HD (Hingh Speed Internet Required)
-http://iptvlive.stream:80/p/899815/c/32/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+
 
 
 
@@ -431,11 +430,5 @@ https://triangle.iptv.digijadoo.net/live/diva/chunks.m3u8
 https://triangle.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png" group-title="Others",Comedy Central
 https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
-
-
-
-#EXTINF:-1,Star Movies
-http://103.118.76.186:9981/stream/channelid/35115077
-
 
 
