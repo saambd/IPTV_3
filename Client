@@ -312,7 +312,7 @@ http://ddn.amrbd.com:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png"  group-title="Sports", SONY SIX HD 
 http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports", PTV SPORTS 
-http://103.135.208.14/live/ibox/bd/84.m3u8
+http://iptvlive.stream:80/p/881263/c/124/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="Sports", STAR SPORTS 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/161.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports", STAR SPORTS 2 HD
