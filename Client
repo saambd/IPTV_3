@@ -255,6 +255,10 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yLwNHZ/hbo-signature-logo-png-transparent.png" group-title="English Movies", HBO Signature HD (Need Hingh Speed Internet) 
 http://iptvlive.stream:80/p/936249/c/10/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdYh1KW/hqdefault.jpg" group-title="English Movies", MBC Action (Need Hingh Speed Internet) 
+http://iptvlive.stream:80/p/983515/c/21/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mvxC4gD/MBC-MAX-on-light.jpg" group-title="English Movies", MBC Max HD (Need Hingh Speed Internet) 
+http://iptvlive.stream:80/p/885463/c/164/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JcSF4sN/WB-india.jpg" group-title="English Movies", WB
 http://ccn.anytv.live:8080/wb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="English Movies", Lotus Macau
