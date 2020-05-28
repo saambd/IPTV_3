@@ -297,12 +297,16 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_2.m3u8
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="English Movies", Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9hFMNcf/logo-cmax.jpg" group-title="English Movies", CINEMAX HD
+http://iptvlive.stream:80/p/684720/c/66/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YRXYMtQ/sony-pix-hd-logo01.jpg" group-title="English Movies", SONY PIX HD
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qlDIXH7.png" group-title="English Movies", Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7WX88d/download.png" group-title="English Movies", HBO HD
 http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryNXdT1/hbo.jpg" group-title="English Movies", HBO HD Int
+http://iptvlive.stream:80/p/684720/c/68/u/265808/A02gRt8vEk0yjkmBv5ed4N3TZUppjW
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWJJr2G/vo-B4v-Z2-Q-400x400.jpg" group-title="English Movies", AXN
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdYh1KW/hqdefault.jpg" group-title="English Movies", MBC Action (Need Hingh Speed Internet) 
@@ -420,7 +424,7 @@ https://triangle.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
 https://triangle.iptv.digijadoo.net/live/dd_national/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UE57LRe.png" group-title="OTHERS", YTN
 https://triangle.iptv.digijadoo.net/live/ytn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="OTHERSOTHERS",NHK World Japan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="OTHERS",NHK World Japan
 https://triangle.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image98a803280a70bd4f.png" group-title="OTHERS", ET Now
 https://triangle.iptv.digijadoo.net/live/et_now/chunks.m3u8
