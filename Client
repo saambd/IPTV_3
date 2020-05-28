@@ -127,6 +127,8 @@ https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RBByaXv.png" group-title="International News",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pVncEBk.png" group-title="International News", ABP News
+https://edge01.iptv.digijadoo.net/live/abp_news/chunks.m3u8
 
 
 
