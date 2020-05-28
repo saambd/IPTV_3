@@ -1,129 +1,247 @@
 #EXTM3U
-#EXTINF:-1,FOX Life
-https://bracnet.iptv.jadoodigital.com/live/fox_life/chunks.m3u8
-#EXTINF:-1,Nat Geo People
-https://bracnet.iptv.jadoodigital.com/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1,Nat Geo In
-https://bracnet.iptv.jadoodigital.com/live/nat_geo_in/chunks.m3u8
-#EXTINF:-1,SA TV
-https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
-#EXTINF:-1,Star Plus
-https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
-#EXTINF:-1,Star Bharat
-https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:-1,Star Gold HD
-https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
-#EXTINF:-1,Star Gold 2
-https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
-#EXTINF:-1,Monoranjan
-https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
-#EXTINF:-1,Movies Now
-https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
-#EXTINF:-1,Lotus TV Macau
-https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
-#EXTINF:-1,VH1
-https://bracnet.iptv.jadoodigital.com/live/vh1/chunks.m3u8
-#EXTINF:-1,FYI TV 18
-https://bracnet.iptv.jadoodigital.com/live/fyi_hd/chunks.m3u8
-#EXTINF:-1,ZOOM
-https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
-#EXTINF:-1,National Geographic Wild
-https://bracnet.iptv.jadoodigital.com/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1,Star World
-https://bracnet.iptv.jadoodigital.com/live/star_world/chunks.m3u8
-#EXTINF:-1,Bangla Vision
-https://bracnet.iptv.jadoodigital.com/live/bangla_vision/chunks.m3u8
-#EXTINF:-1,Zee Bangla
-https://bracnet.iptv.jadoodigital.com/live/zee_bangla/chunks.m3u8
-#EXTINF:-1,Zee Cinema
-https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
-#EXTINF:-1,Zee Classic
-https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
-#EXTINF:-1,ATN News
-https://bracnet.iptv.jadoodigital.com/live/atn_news/chunks.m3u8
+#EXTINF:-1,Gazi
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/122
+#EXTINF:-1,Asian Tv
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/91
+#EXTINF:-1,Somoy
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/146
 #EXTINF:-1,ATN Bangla
-https://bracnet.iptv.jadoodigital.com/live/atn_bangla/chunks.m3u8
-#EXTINF:-1,BTV World
-https://bracnet.iptv.jadoodigital.com/live/btv_world/chunks.m3u8
-#EXTINF:-1,Gazi TV
-https://bracnet.iptv.jadoodigital.com/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,Asian TV
-https://bracnet.iptv.jadoodigital.com/live/asian_tv/chunks.m3u8
-#EXTINF:-1,Boishakhi TV
-https://bracnet.iptv.jadoodigital.com/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1,Channel 9
-https://bracnet.iptv.jadoodigital.com/live/channel_9/chunks.m3u8
-#EXTINF:-1,Channel i
-https://bracnet.iptv.jadoodigital.com/live/channel_i/chunks.m3u8
-#EXTINF:-1,Channel 24
-https://bracnet.iptv.jadoodigital.com/live/channel_24/chunks.m3u8
-#EXTINF:-1,DBC News
-https://bracnet.iptv.jadoodigital.com/live/dbc_news/chunks.m3u8
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/204
+#EXTINF:-1,RTv
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/145
+#EXTINF:-1,NTv
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/142
+#EXTINF:-1,News 24
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/141
 #EXTINF:-1,Deepto TV
-https://bracnet.iptv.jadoodigital.com/live/deepto_tv/chunks.m3u8
-#EXTINF:-1,Desh TV
-https://bracnet.iptv.jadoodigital.com/live/desh_tv/chunks.m3u8
-#EXTINF:-1,Duronto TV
-https://bracnet.iptv.jadoodigital.com/live/duronto_tv/chunks.m3u8
-#EXTINF:-1,Ekattor TV
-https://bracnet.iptv.jadoodigital.com/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1,Ekushey TV
-https://bracnet.iptv.jadoodigital.com/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1,Independent TV
-https://bracnet.iptv.jadoodigital.com/live/independent_tv/chunks.m3u8
-#EXTINF:-1,Jalsha Movies
-https://bracnet.iptv.jadoodigital.com/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1,Jamuna TV
-https://bracnet.iptv.jadoodigital.com/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1,NTV
-https://bracnet.iptv.jadoodigital.com/live/ntv/chunks.m3u8
-#EXTINF:-1,Nagorik TV
-https://bracnet.iptv.jadoodigital.com/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1,RTV
-https://bracnet.iptv.jadoodigital.com/live/rtv/chunks.m3u8
-#EXTINF:-1,Somoy News
-https://bracnet.iptv.jadoodigital.com/live/somoy_news/chunks.m3u8
-#EXTINF:-1,Colors
-https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
-#EXTINF:-1,Colors Bangla
-https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
-#EXTINF:-1,MTV Beats
-https://bracnet.iptv.jadoodigital.com/live/mtv_beats/chunks.m3u8
-#EXTINF:-1,Zing
-https://bracnet.iptv.jadoodigital.com/live/zing/chunks.m3u8
-#EXTINF:-1,History
-https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1,TLC
-https://bracnet.iptv.jadoodigital.com/live/tlc_hd/chunks.m3u8
-#EXTINF:-1,B4U Music
-https://bracnet.iptv.jadoodigital.com/live/b4u_music/chunks.m3u8
-#EXTINF:-1,Zee TV
-https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
-#EXTINF:-1,CNN
-https://bracnet.iptv.jadoodigital.com/live/cnn/chunks.m3u8
-#EXTINF:-1,DW
-https://bracnet.iptv.jadoodigital.com/live/dw/chunks.m3u8
-#EXTINF:-1,BBC WORLD NEWS
-https://bracnet.iptv.jadoodigital.com/live/bbc_world/chunks.m3u8
-#EXTINF:-1,Al Jazeera
-https://bracnet.iptv.jadoodigital.com/live/al_jazeera/chunks.m3u8
-#EXTINF:-1,DD Bangla
-https://bracnet.iptv.jadoodigital.com/live/dd_bangla/chunks.m3u8
-#EXTINF:-1,Dhoom Music
-https://bracnet.iptv.jadoodigital.com/live/dhoom_music/chunks.m3u8
-#EXTINF:-1,Music Fatafati
-https://bracnet.iptv.jadoodigital.com/live/music_fatafati/chunks.m3u8
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/205
+#EXTINF:-1,Nagorik
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/136
+#EXTINF:-1,Masranga
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/130
+#EXTINF:-1,Jamuna Tv
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/129
 #EXTINF:-1,Gaan Bangla
-https://bracnet.iptv.jadoodigital.com/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1,Mohona TV
-https://bracnet.iptv.jadoodigital.com/live/mohona_tv/chunks.m3u8
-#EXTINF:-1,News 24 HD
-https://bracnet.iptv.jadoodigital.com/live/news_24_hd/chunks.m3u8
-#EXTINF:-1,Ruposhi Bangla
-https://bracnet.iptv.jadoodigital.com/live/ruposhi_bangla/chunks.m3u8
-#EXTINF:-1,DD News
-https://bracnet.iptv.jadoodigital.com/live/dd_news/chunks.m3u8
-#EXTINF:-1,DD Sports
-https://bracnet.iptv.jadoodigital.com/live/dd_sports/chunks.m3u8
-#EXTINF:-1,DD National
-https://bracnet.iptv.jadoodigital.com/live/dd_national/chunks.m3u8
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/121
+#EXTINF:-1,Ekushey Tv
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/113
+#EXTINF:-1,Channel 9
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/104
+#EXTINF:-1,Channel 24
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/103
+#EXTINF:-1,Bangla Vision
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/94
+#EXTINF:-1,71 Tv
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/86
+#EXTINF:-1,Star Jalsha
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/193
+#EXTINF:-1,Colors Bangla
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/106
+#EXTINF:-1,Sony Aath
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/191
+#EXTINF:-1,Zee Bangla
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/192
+#EXTINF:-1,Jalsha Movies
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/203
+#EXTINF:-1,Star Gold
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/161
+#EXTINF:-1,Zoom
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/159
+#EXTINF:-1,Zee Aflam
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/158
+#EXTINF:-1,Akash Bangla
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/176
+#EXTINF:-1,Star Plus
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/152
+#EXTINF:-1,Sony MAX
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/147
+#EXTINF:-1,The Q
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/143
+#EXTINF:-1,MBC Bollywood
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/131
+#EXTINF:-1,Food
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/116
+#EXTINF:-1,Colors
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/105
+#EXTINF:-1,Hindi Movies
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/102
+#EXTINF:-1,B4U Music
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/93
+#EXTINF:-1,Zee ClassIc
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/189
+#EXTINF:-1,Sony Max
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/186
+#EXTINF:-1,Sony
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/184
+#EXTINF:-1,Zing
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/183
+#EXTINF:-1,Zee Tv
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/217
+#EXTINF:-1,Zee Cinema
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/182
+#EXTINF:-1,Zee Action
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/181
+#EXTINF:-1,B4U Plus
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/180
+#EXTINF:-1,Colors Cineplex
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/206
+#EXTINF:-1,Colors Rishtey
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/207
+#EXTINF:-1,Star World Ar
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/153
+#EXTINF:-1,Fox
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/117
+#EXTINF:-1,Dubai One
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/112
+#EXTINF:-1,Hits
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/101
+#EXTINF:-1,Thrill
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/100
+#EXTINF:-1,National Geographic
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/138
+#EXTINF:-1,Star Movies
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/151
+#EXTINF:-1,MBC2
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/133
+#EXTINF:-1,MBC Max
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/132
+#EXTINF:-1,NatGeo People
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/137
+#EXTINF:-1,History 18
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/128
+#EXTINF:-1,H2
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/127
+#EXTINF:-1,Animal Planet
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/89
+#EXTINF:-1,BBC Two
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/97
+#EXTINF:-1,AXN
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/92
+#EXTINF:-1,Sony Pix
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/149
+#EXTINF:-1,RN
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/144
+#EXTINF:-1,MN
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/135
+#EXTINF:-1,MNX
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/134
+#EXTINF:-1,CNN
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/173
+#EXTINF:-1,BBC News
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/95
+#EXTINF:-1,Aljazeera
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/87
+#EXTINF:-1,Skynews
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/210
+#EXTINF:-1,HBO
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/124
+#EXTINF:-1,Warner
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/157
+#EXTINF:-1,Fox Family Movies
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/213
+#EXTINF:-1,Blue Ant Entertainment
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/215
+#EXTINF:-1,Blue Ant Extreme
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/216
+#EXTINF:-1,Nat Geo Wild
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/139
+#EXTINF:-1,HBO Home
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/123
+#EXTINF:-1,Fox Movies
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/119
+#EXTINF:-1,AMC
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/88
+#EXTINF:-1,History
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/126
+#EXTINF:-1,CI
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/114
+#EXTINF:-1,ID
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/115
+#EXTINF:-1,NDTV
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/171
+#EXTINF:-1,Discovery Showcase
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/110
+#EXTINF:-1,Discovery Science
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/109
+#EXTINF:-1,Discovery Channel
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/108
+#EXTINF:-1,ADS Sport Cricket
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/96
+#EXTINF:-1,Film 3
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/156
+#EXTINF:-1,Vh1 It
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/165
+#EXTINF:-1,TV1000 Action
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/155
+#EXTINF:-1,TV1000
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/154
+#EXTINF:-1,Star Sports Select 1
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/212
+#EXTINF:-1,Star Sports Select 2
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/198
+#EXTINF:-1,Ten 1
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/150
+#EXTINF:-1,Sony Ten 2
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/196
+#EXTINF:-1,Sony ESPN
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/194
+#EXTINF:-1,Sony Ten 3
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/197
+#EXTINF:-1,Fox Sports
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/120
+#EXTINF:-1,D Sports
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/107
+#EXTINF:-1,Star Sports
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/200
+#EXTINF:-1,BT Sports
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/199
+#EXTINF:-1,Cartoon Network
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/148
+#EXTINF:-1,Disney Channel
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/111
+#EXTINF:-1,Kids Channel
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/177
+#EXTINF:-1,Nick
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/201
+#EXTINF:-1,Disney Junior
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/202
+#EXTINF:-1,Box Hits
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/167
+#EXTINF:-1,VIVA
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/166
+#EXTINF:-1,Vh1
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/164
+#EXTINF:-1,MTV
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/163
+#EXTINF:-1,Mtv Hits
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/162
+#EXTINF:-1,MTV Dance
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/160
+#EXTINF:-1,News 18
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/140
+#EXTINF:-1,Abp Ananda
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/90
+#EXTINF:-1,Sony Six
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/185
+#EXTINF:-1,Fox Comedy
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/211
+#EXTINF:-1,Doma
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/170
+#EXTINF:-1,SyFy
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/169
+#EXTINF:-1,HBO Hits
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/175
+#EXTINF:-1,RetroTv
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/168
+#EXTINF:-1,MGM
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/174
+#EXTINF:-1,abc News
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/218
+#EXTINF:-1,TVC
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/214
+#EXTINF:-1,Star World
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/208
+#EXTINF:-1,Star World Premiere
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/209
+#EXTINF:-1,Fox Life
+http://digiiptv.ddns.net:25461/YJ8wY4Jx93/lQTznRgwnz/118
