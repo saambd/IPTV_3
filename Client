@@ -436,3 +436,22 @@ https://triangle.iptv.digijadoo.net/live/diva/chunks.m3u8
 https://triangle.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2bcd83435de6f114.png" group-title="OTHERS",Comedy Central
 https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="OTHERS",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/s5CnlRh.jpg"  group-title="OTHERS", Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-logo= "https://www.beaconcouncil.com/wp-content/uploads/2018/09/Roar-MediaLogos-CNBC-Square.jpg" group-title="OTHERS", NBC 
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
