@@ -381,6 +381,24 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
 http://ddn.amrbd.com:8081/live/adsports3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yio8nom.png" group-title="Sports", Ad Sports 4
 http://ddn.amrbd.com:8081/live/adsports4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",  Fox Sports 1 Asia 
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports", Fox Sports 2 Asia
+https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8 
+#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports", Fox Sports 3 Asia
+https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaPlusRu.ie.png" group-title="Sports", Setanta Sports + HD (Hingh Speed Internet Required)
+http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaEn.ie.png" group-title="Sports", Setanta Sports 
+http://188.93.95.34:80/setanta_georgia/index.m3u8 
+#EXTINF:-1 tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_original.png" group-title="Sports", True Sport 2 (Hingh Speed Internet Required) 
+https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="Sports", Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="Sports", Sky Sports Arena 
+https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonySIX.in.png" group-title="Sports",Ads sport cricket 
+http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sports", Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6WPf9hX/download.jpg" group-title="Sports",  BeIn Sports 1 HD (Hingh Speed Internet Required)
@@ -452,21 +470,12 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:0 tvg-logo= "https://www.televisione10.it/wp-content/uploads/2011/03/rai-movie.png" group-title="OTHERS, RAI MOVIE 
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1810191660/Super-ENG_reasonably_small_400x400.jpg" group-title="OTHERS",GEO SPORTS 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1810191660/Super-ENG_reasonably_small_400x400.jpg" group-title="OTHERS", GEO SPORTS 
 http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="OTHERS", Fox Sports 1 Asia 
-https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="OTHERS",Fox Sports 2 Asia
-https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8 
-#EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="OTHERS",Fox Sports 3 Asia
-https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.epg.best/ie/SetantaEurasiaEn.ie.png" group-title="OTHERS",Setanta Sports 
-http://188.93.95.34:80/setanta_georgia/index.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="OTHERS", ET Live 
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbsloca
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="OTHERS",Food Network 
+http://5.135.92.133:52841/out/u/502_1.m3u8
 
 
 
