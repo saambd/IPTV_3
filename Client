@@ -442,8 +442,8 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/s5CnlRh.jpg"  group-title="OTHERS", Rai 
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-logo= "https://www.beaconcouncil.com/wp-content/uploads/2018/09/Roar-MediaLogos-CNBC-Square.jpg" group-title="OTHERS", NBC 
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdA-peqFvfO0FmoqQcnLY1vOfxsWGUbC7z0GPRtH6onlspOU6b&usqp=CAU" group-title="OTHERS", iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 
 
 
